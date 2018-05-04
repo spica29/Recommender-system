@@ -58,11 +58,11 @@ func main() {
 		}
 		//fmt.Printf("%+v", playlists)
 
+		//put playlists in one list and songs in another
 		for _, playlist := range playlists.Playlists {
 			fmt.Printf("%+v", playlist.Name)
 		}
 
-		//put playlists in one list and songs in another
 
 		break
 	}

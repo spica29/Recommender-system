@@ -1,21 +1,21 @@
 import json
-import pandas as pd
-import collections
-from pprint import pprint
+from elasticsearch import Elasticsearch
+es = Elasticsearch()
 
-with open('E:\D\FRI\Recommendation System\data\mpd.slice.0-999.json') as f:
+with open('D:\D\FRI\Recommendation System\data\mpd.slice.0-999.json') as f:
     data = json.load(f)
+#es.indices.delete(index='playlists')
+es.indices.create(index='playlists', ignore=400)
 
-data1 = pd.DataFrame.from_dict(data["playlists"])
-data1.to_csv("file.csv", columns=["name", "tracks"])
-
-dict = collections.defaultdict(list)
 for playlist in data["playlists"]:
-    for song in playlist["tracks"]:
-        song_name = song["track_name"] + ", " + song["artist_name"] + ", " + song["album_name"]
-        dict[playlist["name"]].append(song_name)
+    # index name is playlists
+    #es.update(index='playlists', doc_type='playlist')
+    es.index(index='playlists', doc_type="playlist", body=playlist)
 
-data2 = pd.DataFrame.from_dict(dict, orient='index')
-data2 = data2.to_csv("file2.csv")
+
+    #for song in playlist["tracks"]:
+        #song_name = song["track_name"] + ", " + song["artist_name"] + ", " + song["album_name"]
+        #dict[playlist["name"]].append(song_name)
+
 
 

@@ -18,9 +18,13 @@ for track in challenge["tracks"]:
 print "More like " + more_like_string
 query = "{ \"query\" :{\"more_like_this\" : {\"fields\" : [\"tracks.artist_name\", \"tracks.track_name\"], \"like\":\"" + more_like_string + "\",\"min_term_freq\" : 1,\"max_query_terms\" : 100}}}"
 print "query: " + query
-res = es.search(index="playlists", body=query)
+res = es.search(index="playlists", body=query, size=300)
 print "Result: "
+score_results = ""
 for hit in res['hits']['hits']:
     playlist_name = hit['_source'].get('name')
     playlist_score = hit['_score']
-    print "playlist name: " + str(playlist_name) + ", playlist score " + str(playlist_score)
+    score_results += "playlist name: " + str(playlist_name) + ", playlist score " + str(playlist_score) + "\n"
+
+with open("results.txt", "w") as text_file:
+    text_file.write(score_results )

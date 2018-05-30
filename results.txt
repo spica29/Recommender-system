@@ -1,300 +1,100 @@
-playlist name: 90's hits, playlist score 69.26887
-playlist name: Throwback, playlist score 58.037006
-playlist name: Rachel, playlist score 56.187843
-playlist name: Throwback Hits  , playlist score 51.963757
-playlist name: Throwback, playlist score 51.022854
-playlist name: TBT, playlist score 50.445793
-playlist name: Rosa, playlist score 49.604553
-playlist name: Throwbacks, playlist score 46.799564
-playlist name: 90s, playlist score 46.330208
-playlist name: Trip, playlist score 43.80905
-playlist name: Michelle , playlist score 43.070026
-playlist name: 00s, playlist score 42.355488
-playlist name: Guilty Pleasure, playlist score 41.701584
-playlist name: old songs , playlist score 41.68698
-playlist name: Work Out, playlist score 40.6982
-playlist name: 90s Party, playlist score 40.243904
-playlist name: tbt, playlist score 39.917015
-playlist name: All time favorite , playlist score 38.48206
-playlist name: throwback, playlist score 37.965744
-playlist name: LDN, playlist score 37.1375
-playlist name: My Musics, playlist score 36.923325
-playlist name: #tbt, playlist score 36.102432
-playlist name: workout, playlist score 35.956306
-playlist name: now, playlist score 35.758343
-playlist name: Camp, playlist score 34.91007
-playlist name: NYE, playlist score 34.23505
-playlist name: throwback , playlist score 33.5699
-playlist name: Christmas, playlist score 33.317818
-playlist name: Throwbacks, playlist score 32.97975
-playlist name: pr, playlist score 32.70013
-playlist name: 90s, playlist score 32.45992
-playlist name: camp, playlist score 32.26394
-playlist name: Party Mix, playlist score 31.827013
-playlist name: old people, playlist score 31.676214
-playlist name: Road Trip, playlist score 31.404108
-playlist name: throwbacks, playlist score 31.073803
-playlist name: oldies, playlist score 31.00492
-playlist name: Throwback Jams, playlist score 30.641638
-playlist name: GUILTY PLEASURES, playlist score 29.934866
-playlist name: THROWBACK, playlist score 29.793556
-playlist name: 90's, playlist score 29.723
-playlist name: singalongs, playlist score 29.580128
-playlist name: Top hits, playlist score 29.228777
-playlist name: Throwbackkkk, playlist score 29.06315
-playlist name: throwin it back, playlist score 28.813272
-playlist name: Spring Break 2015, playlist score 28.317787
-playlist name: old but gold, playlist score 28.295694
-playlist name: ThrowBack Pop , playlist score 27.558222
-playlist name: christmas, playlist score 27.124329
-playlist name: old but good, playlist score 27.121162
-playlist name: Rap/Pop, playlist score 26.924297
-playlist name: Girly, playlist score 26.742283
-playlist name: Car Rides, playlist score 26.381554
-playlist name: 90s, playlist score 26.345861
-playlist name: drive, playlist score 26.271877
-playlist name: Feel good songs, playlist score 26.154732
-playlist name: 80's, playlist score 26.136759
-playlist name: California, playlist score 25.866215
-playlist name: old but good , playlist score 25.822662
-playlist name: Favorite Songs, playlist score 25.664854
-playlist name: Throwbacks, playlist score 25.31192
-playlist name: Throwback, playlist score 25.300066
-playlist name: 90s, playlist score 25.177849
-playlist name: ~Rando~, playlist score 25.147224
-playlist name: Random, playlist score 25.116486
-playlist name: Belters, playlist score 25.103691
-playlist name: Too Close, playlist score 25.1002
-playlist name: throwback jamz, playlist score 24.963787
-playlist name: hoco, playlist score 24.915014
-playlist name: partay , playlist score 24.887068
-playlist name: Party, playlist score 24.832747
-playlist name: Christmas, playlist score 24.634401
-playlist name: Nostalgia, playlist score 24.578276
-playlist name: 90s, playlist score 24.465849
-playlist name: Family, playlist score 24.416368
-playlist name: before my time, playlist score 24.01001
-playlist name: Current, playlist score 23.969234
-playlist name: WORKOUT, playlist score 23.893944
-playlist name: Why Not, playlist score 23.760656
-playlist name: Throwbacks, playlist score 23.726429
-playlist name: nostalgia, playlist score 23.715378
-playlist name: Naptime, playlist score 23.621527
-playlist name: RoAD TriP, playlist score 23.29947
-playlist name: Meow, playlist score 23.244122
-playlist name: Christmas, playlist score 23.131136
-playlist name: Trap, playlist score 23.017288
-playlist name: Portland , playlist score 22.993763
-playlist name: Acoustic, playlist score 22.978582
-playlist name: jens, playlist score 22.844185
-playlist name: Wedding Reception, playlist score 22.507803
-playlist name: Pool Party, playlist score 22.405525
-playlist name: Main Playlist, playlist score 22.403885
-playlist name: Sleep, playlist score 22.292782
-playlist name: 4/20, playlist score 22.221409
-playlist name: old, playlist score 22.095316
-playlist name: PARTY, playlist score 22.018429
-playlist name: Throwbacks, playlist score 21.971668
-playlist name: Mashup, playlist score 21.939825
-playlist name: Throwback, playlist score 21.881687
-playlist name: Feels, playlist score 21.8432
-playlist name: workout 2, playlist score 21.743631
-playlist name: Girl Power, playlist score 21.559032
-playlist name: GALa, playlist score 21.48362
-playlist name: for you, playlist score 21.428007
-playlist name: Closer, playlist score 21.41529
-playlist name: chill, playlist score 21.344341
-playlist name: study!, playlist score 21.261932
-playlist name: Party, playlist score 21.0692
-playlist name: Workout, playlist score 21.010773
-playlist name: VACATION, playlist score 20.83825
-playlist name: Christmas jamz, playlist score 20.773472
-playlist name: Engagement Party, playlist score 20.73057
-playlist name: Band, playlist score 20.69879
-playlist name: inspiring, playlist score 20.692022
-playlist name: Shhh.., playlist score 20.67307
-playlist name: peter, playlist score 20.44929
-playlist name: WORKOUT, playlist score 20.44428
-playlist name: tb, playlist score 20.419497
-playlist name: Vermont, playlist score 20.418379
-playlist name: Throwbacks , playlist score 20.404585
-playlist name: CHRISTMASSSSS, playlist score 20.372646
-playlist name: LITT , playlist score 20.320965
-playlist name: graduation, playlist score 20.191004
-playlist name: oldies, playlist score 20.166199
-playlist name: Guilty Pleasures, playlist score 20.120285
-playlist name: Running, playlist score 20.089079
-playlist name: Workout, playlist score 20.062841
-playlist name: FUN MUSIC, playlist score 20.031523
-playlist name: 90's Hits, playlist score 20.03004
-playlist name: groovy, playlist score 20.008036
-playlist name: fall, playlist score 19.990047
-playlist name: christmas time, playlist score 19.938084
-playlist name: workout, playlist score 19.933489
-playlist name: run, playlist score 19.810247
-playlist name: Childhood Jams, playlist score 19.744331
-playlist name: throw backs, playlist score 19.731327
-playlist name: Running!, playlist score 19.710402
-playlist name: // Drive, playlist score 19.603354
-playlist name: Guilty Pleasures, playlist score 19.510872
-playlist name: West Coast Swing, playlist score 19.506792
-playlist name: happy, playlist score 19.455591
-playlist name: This Is What You Came For, playlist score 19.365826
-playlist name: Run Run Run, playlist score 19.20811
-playlist name: Sexual, playlist score 19.18242
-playlist name: Gym, playlist score 19.166988
-playlist name: Covers, playlist score 18.928617
-playlist name: SARAH, playlist score 18.86675
-playlist name: older songs, playlist score 18.777456
-playlist name: Taylor swift, playlist score 18.760626
-playlist name: CW, playlist score 18.689823
-playlist name: Oldies, playlist score 18.649784
-playlist name: Go To, playlist score 18.635742
-playlist name: Real Music, playlist score 18.62296
-playlist name: Alternative, playlist score 18.567825
-playlist name: Mr. Brightside, playlist score 18.518711
-playlist name: Mixtape, playlist score 18.446785
-playlist name: Party Party, playlist score 18.443933
-playlist name: Workout, playlist score 18.375195
-playlist name: Love, playlist score 18.348146
-playlist name: Party, playlist score 18.274446
-playlist name: summer 16', playlist score 18.265482
-playlist name: Today's Hits, playlist score 18.224445
-playlist name: good playlist, playlist score 18.20484
-playlist name: texas, playlist score 18.204714
-playlist name: 2015, playlist score 18.189138
-playlist name: Main, playlist score 18.163015
-playlist name: Slow Stuff, playlist score 18.102947
-playlist name: 80's, playlist score 18.099115
-playlist name: I workout!, playlist score 18.097767
-playlist name: Workout, playlist score 18.093044
-playlist name: Best of 2016, playlist score 18.033236
-playlist name: 2015 Summer, playlist score 17.80929
-playlist name: Dancing in the Moonlight, playlist score 17.787264
-playlist name: feel good, playlist score 17.784548
-playlist name: workout, playlist score 17.716503
-playlist name: chill bro, playlist score 17.711552
-playlist name: summer, playlist score 17.616785
-playlist name: tb, playlist score 17.592299
-playlist name: Just Chillin', playlist score 17.578259
-playlist name: Relaxing , playlist score 17.550554
-playlist name: <3, playlist score 17.479239
-playlist name: REPEAT , playlist score 17.478256
-playlist name: old, playlist score 17.452887
-playlist name: GET DOWN, playlist score 17.428484
-playlist name: work playlist, playlist score 17.410141
-playlist name: bump, playlist score 17.373716
-playlist name: yo, playlist score 17.365847
-playlist name: mashup, playlist score 17.315323
-playlist name: sing along, playlist score 17.303196
-playlist name: Christmas :) , playlist score 17.239023
-playlist name: Party Rock!!, playlist score 17.2386
-playlist name: Pop Hits, playlist score 17.238188
-playlist name: relax, playlist score 17.199139
-playlist name: Christmas Party, playlist score 17.185946
-playlist name: Party, playlist score 17.15403
-playlist name: w o r k o u t, playlist score 17.13947
-playlist name: welcome back, playlist score 17.060133
-playlist name: bounce, playlist score 17.01318
-playlist name: Electro , playlist score 16.997654
-playlist name: Rap, playlist score 16.960625
-playlist name: Oldies, playlist score 16.924936
-playlist name: mb, playlist score 16.877886
-playlist name: oldies, playlist score 16.828077
-playlist name: Music, playlist score 16.816423
-playlist name: Say My Name, playlist score 16.8158
-playlist name: Country, playlist score 16.8024
-playlist name: pregame, playlist score 16.800842
-playlist name: throwbacks , playlist score 16.779562
-playlist name: goodies, playlist score 16.771938
-playlist name: pole, playlist score 16.762571
-playlist name: PARTAYY, playlist score 16.725441
-playlist name: Replay, playlist score 16.70393
-playlist name: vibin, playlist score 16.67645
-playlist name: Stuff, playlist score 16.660694
-playlist name: Running, playlist score 16.60282
-playlist name: Classics, playlist score 16.592781
-playlist name: Hungover, playlist score 16.587425
-playlist name: Boda, playlist score 16.55987
-playlist name: new, playlist score 16.539913
-playlist name: throwback, playlist score 16.474232
-playlist name: Texas Country, playlist score 16.433456
-playlist name: Adri, playlist score 16.420954
-playlist name: smooth jams, playlist score 16.387705
-playlist name: 2020, playlist score 16.38021
-playlist name: BBG, playlist score 16.360909
-playlist name: Old School R&B, playlist score 16.34997
-playlist name: 2015, playlist score 16.336052
-playlist name: oldies but goodies, playlist score 16.284956
-playlist name: Classic Country, playlist score 16.27771
-playlist name: Noosa Tastiest Playlist, playlist score 16.207596
-playlist name: HER, playlist score 16.202745
-playlist name: fav songs , playlist score 16.176575
-playlist name: Music, playlist score 16.168537
-playlist name: throwback, playlist score 16.153852
-playlist name: Partayyyy, playlist score 16.08582
-playlist name: wedding, playlist score 16.084446
-playlist name: Slow Jams, playlist score 16.034376
-playlist name: throwback bops, playlist score 16.027206
-playlist name: Classics, playlist score 15.994975
-playlist name: Pole, playlist score 15.974951
-playlist name: 2016, playlist score 15.958348
-playlist name: Love <3, playlist score 15.950475
-playlist name: Classic Rock, playlist score 15.935424
-playlist name: My Favorites, playlist score 15.910514
-playlist name: 80's Baby, playlist score 15.87374
-playlist name: summer 2016, playlist score 15.835492
-playlist name: on the road , playlist score 15.787862
-playlist name: white girl music, playlist score 15.744144
-playlist name: Isis, playlist score 15.7427225
-playlist name: Disco, playlist score 15.551249
-playlist name: Dance Dance, playlist score 15.531468
-playlist name: Sad songs, playlist score 15.529569
-playlist name: Rock mix, playlist score 15.503878
-playlist name: New, playlist score 15.490121
-playlist name: Country playlist, playlist score 15.474622
-playlist name: recovery, playlist score 15.43776
-playlist name: Somo, playlist score 15.426429
-playlist name: summer playlist, playlist score 15.415157
-playlist name: Vibin, playlist score 15.382913
-playlist name: Summer drives, playlist score 15.38264
-playlist name: Party, playlist score 15.354668
-playlist name: 2000s hits, playlist score 15.346763
-playlist name: 18, playlist score 15.3170185
-playlist name: country, playlist score 15.295036
-playlist name: julie, playlist score 15.292451
-playlist name: jams, playlist score 15.283004
-playlist name: Thursdays, playlist score 15.282402
-playlist name: AM, playlist score 15.199018
-playlist name: Bachelor Party!!!, playlist score 15.193632
-playlist name: broken. , playlist score 15.183089
-playlist name: I Took A Pill In Ibiza - Seeb Remix, playlist score 15.169714
-playlist name: 70's, playlist score 15.163774
-playlist name: oldies, playlist score 15.155157
-playlist name: Heart, playlist score 15.140033
-playlist name: Shower jams, playlist score 15.123541
-playlist name: EDM, playlist score 15.112586
-playlist name: Party, playlist score 15.095002
-playlist name: running, playlist score 15.060648
-playlist name: Classic Rock, playlist score 15.0567875
-playlist name: mood, playlist score 15.052908
-playlist name: halloween party!, playlist score 15.044257
-playlist name: Throwback, playlist score 15.016638
-playlist name: Oldies, playlist score 15.015817
-playlist name: car ride, playlist score 14.945895
-playlist name: Random Favorites, playlist score 14.934036
-playlist name: 80s Rock, playlist score 14.918297
-playlist name: holiday cheer, playlist score 14.917104
-playlist name: Summer, playlist score 14.887112
-playlist name: music i like, playlist score 14.874004
-playlist name: Flashback, playlist score 14.865793
-playlist name: Girls, playlist score 14.863952
-playlist name: ehh, playlist score 14.834033
-playlist name: country, playlist score 14.781038
-playlist name: Slow jams, playlist score 14.765605
-playlist name: country favs, playlist score 14.7546625
-playlist name: car rides, playlist score 14.72692
-playlist name: Alt Jams, playlist score 14.703312
-playlist name: rock, playlist score 14.700921
-playlist name: Pop, playlist score 14.6892
-playlist name: 22, playlist score 14.688778
+playlist name: Country, playlist score 93.89222
+playlist name: country, playlist score 88.74355
+playlist name: country, playlist score 81.07184
+playlist name: country, playlist score 80.06804
+playlist name: country, playlist score 79.24243
+playlist name: Country, playlist score 79.03014
+playlist name: Country, playlist score 78.49118
+playlist name: country, playlist score 78.34687
+playlist name: Country, playlist score 78.11776
+playlist name: country, playlist score 77.71278
+playlist name: Country Mix, playlist score 77.31946
+playlist name: ju, playlist score 77.18277
+playlist name: Country, playlist score 76.91431
+playlist name: Country, playlist score 75.39708
+playlist name: Country, playlist score 75.10984
+playlist name: country summer, playlist score 75.07643
+playlist name: Country, playlist score 74.16291
+playlist name: country, playlist score 74.11409
+playlist name: Country, playlist score 73.69906
+playlist name: Country, playlist score 73.1068
+playlist name: Summer Country, playlist score 72.83136
+playlist name: Country, playlist score 71.98704
+playlist name: Country, playlist score 71.58695
+playlist name: country favs, playlist score 71.58329
+playlist name: Country Jams, playlist score 71.53393
+playlist name: country, playlist score 71.35295
+playlist name: Country, playlist score 71.26044
+playlist name: country🎸, playlist score 70.8256
+playlist name: country, playlist score 69.87594
+playlist name: Country, playlist score 69.67421
+playlist name: country, playlist score 69.27089
+playlist name: yee haw, playlist score 68.72366
+playlist name: Country, playlist score 68.63575
+playlist name: Best Country, playlist score 68.56654
+playlist name: country, playlist score 68.30496
+playlist name: Country Playlist, playlist score 67.64303
+playlist name: country lovin, playlist score 67.43585
+playlist name: Country, playlist score 67.23966
+playlist name: Country, playlist score 67.18958
+playlist name: Country feels, playlist score 66.98603
+playlist name: Country, playlist score 66.67978
+playlist name: country, playlist score 66.5942
+playlist name: Favorite Country, playlist score 66.45584
+playlist name: Country, playlist score 66.02786
+playlist name: country, playlist score 65.99844
+playlist name: Country, playlist score 65.91973
+playlist name: Country, playlist score 65.64103
+playlist name: saras, playlist score 65.47835
+playlist name: 💛💛, playlist score 65.25742
+playlist name: country, playlist score 64.74589
+playlist name: country, playlist score 64.17191
+playlist name: country, playlist score 64.02796
+playlist name: country mix, playlist score 62.99674
+playlist name: country, playlist score 62.98813
+playlist name: Country, playlist score 62.41115
+playlist name: Country, playlist score 62.01173
+playlist name: Country, playlist score 61.95655
+playlist name: country gold, playlist score 61.66505
+playlist name: Country, playlist score 61.55549
+playlist name: Country, playlist score 61.54297
+playlist name: Country, playlist score 61.53404
+playlist name: Country, playlist score 61.40953
+playlist name: country, playlist score 61.35799
+playlist name: Country, playlist score 61.21004
+playlist name: Country, playlist score 61.15132
+playlist name: favorite music, playlist score 61.11153
+playlist name: Country, playlist score 60.85807
+playlist name: country, playlist score 60.67663
+playlist name: new country, playlist score 60.65866
+playlist name: country, playlist score 60.30539
+playlist name: Country Mix, playlist score 60.22388
+playlist name: Country, playlist score 60.05229
+playlist name: new country, playlist score 60.04538
+playlist name: country 2, playlist score 59.93899
+playlist name: Country, playlist score 59.74816
+playlist name: country, playlist score 59.54114
+playlist name: Honky Tonk, playlist score 59.24911
+playlist name: Country, playlist score 59.23537
+playlist name: Down South, playlist score 59.19617
+playlist name: Country, playlist score 59.13596
+playlist name: Country girl., playlist score 59.09192
+playlist name: Country playlist, playlist score 58.80295
+playlist name: country favs, playlist score 58.79751
+playlist name: country, playlist score 58.43361
+playlist name: Country, playlist score 58.38466
+playlist name: Country, playlist score 58.2189
+playlist name: Country, playlist score 58.04753
+playlist name: Country, playlist score 57.84345
+playlist name: country, playlist score 57.47582
+playlist name: Country, playlist score 57.33524
+playlist name: country, playlist score 57.22271
+playlist name: Country, playlist score 56.90165
+playlist name: RoadTrip, playlist score 56.70894
+playlist name: Country?, playlist score 56.52889
+playlist name: Country, playlist score 56.49801
+playlist name: Country Favs, playlist score 56.46313
+playlist name: Country, playlist score 55.78692
+playlist name: Favorite Country, playlist score 55.45678
+playlist name: Party Country, playlist score 55.17944
+playlist name: Country, playlist score 55.12515

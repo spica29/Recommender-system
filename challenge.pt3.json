@@ -1,0 +1,109 @@
+{
+    "name": "Relax", 
+    "num_holdouts": 73, 
+    "pid": 1007138, 
+    "num_tracks": 83, 
+    "tracks": [
+        {
+            "pos": 0, 
+            "artist_name": "RY X", 
+            "track_uri": "spotify:track:7BSMSvK0WxrDeI98bswYa8", 
+            "artist_uri": "spotify:artist:2KjAo6wVc9d2WcxdxSArpV", 
+            "track_name": "Berlin", 
+            "album_uri": "spotify:album:0DvauBOn2G8RIEQR54Cmiv", 
+            "duration_ms": 174172, 
+            "album_name": "Dawn"
+        }, 
+        {
+            "pos": 1, 
+            "artist_name": "The Cinematic Orchestra", 
+            "track_uri": "spotify:track:54KFQB6N4pn926IUUYZGzK", 
+            "artist_uri": "spotify:artist:32ogthv0BdaSMPml02X9YB", 
+            "track_name": "To Build A Home", 
+            "album_uri": "spotify:album:5cPHT4yMCfETLRYAoBFcOZ", 
+            "duration_ms": 371320, 
+            "album_name": "Ma Fleur"
+        }, 
+        {
+            "pos": 2, 
+            "artist_name": "Coldplay", 
+            "track_uri": "spotify:track:0FDzzruyVECATHXKHFs9eJ", 
+            "artist_uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU", 
+            "track_name": "A Sky Full of Stars", 
+            "album_uri": "spotify:album:2G4AUqfwxcV1UdQjm2ouYr", 
+            "duration_ms": 268466, 
+            "album_name": "Ghost Stories"
+        }, 
+        {
+            "pos": 3, 
+            "artist_name": "Coldplay", 
+            "track_uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle", 
+            "artist_uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU", 
+            "track_name": "The Scientist", 
+            "album_uri": "spotify:album:0RHX9XECH8IVI3LNgWDpmQ", 
+            "duration_ms": 309600, 
+            "album_name": "A Rush Of Blood To The Head"
+        }, 
+        {
+            "pos": 4, 
+            "artist_name": "Matt Simons", 
+            "track_uri": "spotify:track:2LZwKxTPZLBCYjUhlogMZl", 
+            "artist_uri": "spotify:artist:1g0fXhQMHAxlRyIBkCbuE7", 
+            "track_name": "Catch & Release - Deepend Remix", 
+            "album_uri": "spotify:album:19EklIEq4hXaKt6jNBTvXm", 
+            "duration_ms": 195173, 
+            "album_name": "When The Lights Go Down"
+        }, 
+        {
+            "pos": 5, 
+            "artist_name": "IO Echo", 
+            "track_uri": "spotify:track:5hwcnUiQQqNmCNuDnu5pkk", 
+            "artist_uri": "spotify:artist:3TQKbfmV71guAH49oalx69", 
+            "track_name": "When The Lillies Die", 
+            "album_uri": "spotify:album:0x61HJQQOcuaI4VlOebm2v", 
+            "duration_ms": 219066, 
+            "album_name": "Ministry Of Love EP"
+        }, 
+        {
+            "pos": 6, 
+            "artist_name": "Happy Hollows", 
+            "track_uri": "spotify:track:7JJpc5RLxsRgUt0JGCztaS", 
+            "artist_uri": "spotify:artist:4fPjq4BxeLWYTnWGbRKC3D", 
+            "track_name": "Endless", 
+            "album_uri": "spotify:album:6yKPsK1YFC0cB5fDnvdL45", 
+            "duration_ms": 212826, 
+            "album_name": "Amethyst"
+        }, 
+        {
+            "pos": 7, 
+            "artist_name": "Goodnight Radio", 
+            "track_uri": "spotify:track:6bNjJfq9oQGnqicO0iphsa", 
+            "artist_uri": "spotify:artist:3TNK7X7fpivVW9xxWpckez", 
+            "track_name": "Sophia So Far", 
+            "album_uri": "spotify:album:4u0TfPUpXHMDRBl04DKwc0", 
+            "duration_ms": 259764, 
+            "album_name": "Sophia So Far"
+        }, 
+        {
+            "pos": 8, 
+            "artist_name": "David Bowie", 
+            "track_uri": "spotify:track:1JIzFhI9Lt5FyslawmHCBi", 
+            "artist_uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy", 
+            "track_name": "Five Years - 2012 Remastered Version", 
+            "album_uri": "spotify:album:48D1hRORqJq52qsnUYZX56", 
+            "duration_ms": 283752, 
+            "album_name": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars"
+        }, 
+        {
+            "pos": 9, 
+            "artist_name": "The War On Drugs", 
+            "track_uri": "spotify:track:0JxI0r0gooV71qlPfHqJry", 
+            "artist_uri": "spotify:artist:6g0mn3tzAds6aVeUYRsryU", 
+            "track_name": "Red Eyes", 
+            "album_uri": "spotify:album:7ogAbzopd3XkOj3gdStnSi", 
+            "duration_ms": 297826, 
+            "album_name": "Lost in the Dream"
+        }
+    ], 
+    "num_samples": 10
+}

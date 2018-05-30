@@ -25,5 +25,5 @@ for hit in res['hits']['hits']:
     #print str(playlist_score)
     score_results += "playlist name: " + playlist_name.encode('utf-8').strip() + ", playlist score " + str(round(playlist_score, 5)) + "\n"
 
-with open("results.txt", "w") as text_file:
+with open("results6.txt", "w") as text_file:
     text_file.write(score_results )

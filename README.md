@@ -1,4 +1,4 @@
 # recommender system
-Install Elasticsearch
-Run data_preparation.py
-Run challenge.py
+Install Elasticsearch <br>
+Run data_preparation.py <br>
+Run challenge.py <br>

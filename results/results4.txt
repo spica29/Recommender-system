@@ -1,100 +1,100 @@
-playlist name: in love, playlist score 75.07912
-playlist name: For You, playlist score 66.78005
-playlist name: Alternative, playlist score 65.74276
-playlist name: Wanderlust, playlist score 63.09432
-playlist name: Chill, playlist score 61.14794
-playlist name: Slow Dance, playlist score 58.43704
-playlist name: HappySad, playlist score 56.74752
-playlist name: FIREFLY 2016, playlist score 54.65263
-playlist name: To Build A Home, playlist score 54.25254
-playlist name: sounds, playlist score 53.9458
-playlist name: seasons:), playlist score 53.22232
-playlist name: Shower Songs, playlist score 53.15965
-playlist name: Chill, playlist score 52.77903
-playlist name: Home, playlist score 52.77129
-playlist name: Route 66, playlist score 51.80313
-playlist name: indie mix, playlist score 51.61957
-playlist name: 2013, playlist score 51.23875
-playlist name: Now, playlist score 50.91237
-playlist name: Mountains, playlist score 50.83073
-playlist name: LOVELY, playlist score 50.44971
-playlist name: Chill, playlist score 50.27027
-playlist name: mumford, playlist score 49.62094
-playlist name: Chill, playlist score 49.35017
-playlist name: CV, playlist score 49.34416
-playlist name: Feels, playlist score 48.87094
-playlist name: Chilling, playlist score 48.80981
-playlist name: alternative, playlist score 48.74547
-playlist name: wedding, playlist score 47.23461
-playlist name: for the soul, playlist score 47.12264
-playlist name: road trip, playlist score 46.91873
-playlist name: rad, playlist score 46.22359
-playlist name: Acoustic, playlist score 45.87625
-playlist name: ((chris)), playlist score 45.73712
-playlist name: sad tunes, playlist score 45.28273
-playlist name: 14, playlist score 45.11137
-playlist name: woodstock, playlist score 44.72277
-playlist name: Musica, playlist score 44.36073
-playlist name: Danielle, playlist score 44.28035
-playlist name: Study Hall, playlist score 44.11704
-playlist name: Nikita, playlist score 43.7711
-playlist name: Trippin, playlist score 43.37758
-playlist name: colorado, playlist score 43.3083
-playlist name: Luke!, playlist score 42.89637
-playlist name: twenty sixteen, playlist score 42.87562
-playlist name: Em, playlist score 42.84426
-playlist name: Run Run Run, playlist score 42.8075
-playlist name: Indie Folk, playlist score 42.67343
-playlist name: Road Trip, playlist score 42.1642
-playlist name: Soft Pop, playlist score 42.09265
-playlist name: butterflies, playlist score 41.99654
-playlist name: Sean, playlist score 41.9848
-playlist name: Relax, playlist score 41.59084
-playlist name: Work, playlist score 41.36209
-playlist name: folk, playlist score 41.23172
-playlist name: Folksy, playlist score 41.213
-playlist name: van, playlist score 40.9759
-playlist name: Acoustics, playlist score 40.94094
-playlist name: Nostalgia, playlist score 40.81937
-playlist name: Hike, playlist score 40.59786
-playlist name: Sleep, playlist score 40.40048
-playlist name: Alt Nation, playlist score 40.20275
-playlist name: PURPLE, playlist score 39.99386
-playlist name: electro, playlist score 39.83336
-playlist name: Marathon, playlist score 39.70473
-playlist name: Chillout, playlist score 39.64673
-playlist name: Feel Good, playlist score 39.58919
-playlist name: Run for your life!, playlist score 39.48669
-playlist name: Cool Down, playlist score 39.37745
-playlist name: be mine, playlist score 39.34207
-playlist name: Alternative, playlist score 39.25864
-playlist name: Sky, playlist score 39.2555
-playlist name: Indie stuff, playlist score 38.96108
-playlist name: deep sleep, playlist score 38.94989
-playlist name: Relax, playlist score 38.88201
-playlist name: electric love, playlist score 38.76632
-playlist name: spring break, playlist score 38.69012
-playlist name: For You, playlist score 38.47945
-playlist name: Camping, playlist score 38.45445
-playlist name: THE Playlist, playlist score 38.4541
-playlist name: Indie Summer, playlist score 38.39824
-playlist name: Sunday, playlist score 38.33809
-playlist name: wow, playlist score 38.27116
-playlist name: Inspiration, playlist score 38.22499
-playlist name: A little bit of everything, playlist score 38.12363
-playlist name: Sunday Morning, playlist score 37.65328
-playlist name: Shower, playlist score 37.65031
-playlist name: Indie Stuff, playlist score 37.51596
-playlist name: Love, playlist score 37.44832
-playlist name: Hangout, playlist score 37.41631
-playlist name: Hi, playlist score 37.30008
-playlist name: Abby, playlist score 37.2869
-playlist name: miscellaneous, playlist score 37.20149
-playlist name: Indie love, playlist score 36.92538
-playlist name: Wedding songs, playlist score 36.90023
-playlist name: Oh Happy Day., playlist score 36.57657
-playlist name: Chilly, playlist score 36.50842
-playlist name: Chill music, playlist score 36.46134
-playlist name: alt, playlist score 36.45818
-playlist name: TOP, playlist score 36.38562
-playlist name: Car Rides, playlist score 36.26284
+playlist name: in love, playlist score 49.87342
+playlist name: Alternative, playlist score 48.90984
+playlist name: For You, playlist score 46.44373
+playlist name: Chill, playlist score 45.14151
+playlist name: Wanderlust, playlist score 43.7679
+playlist name: Slow Dance, playlist score 41.86649
+playlist name: Route 66, playlist score 41.686
+playlist name: Home, playlist score 41.10853
+playlist name: To Build A Home, playlist score 39.36214
+playlist name: Shower Songs, playlist score 38.99543
+playlist name: Now, playlist score 38.10298
+playlist name: seasons:), playlist score 38.04401
+playlist name: HappySad, playlist score 37.58041
+playlist name: 2013, playlist score 37.11244
+playlist name: sounds, playlist score 36.96045
+playlist name: Musica, playlist score 36.95908
+playlist name: FIREFLY 2016, playlist score 36.91121
+playlist name: Chilling, playlist score 36.63305
+playlist name: Mountains, playlist score 36.46677
+playlist name: Chill, playlist score 36.43883
+playlist name: Chill, playlist score 35.88736
+playlist name: electro, playlist score 35.54246
+playlist name: 14, playlist score 35.39192
+playlist name: CV, playlist score 35.27259
+playlist name: Run Run Run, playlist score 34.52126
+playlist name: for the soul, playlist score 34.45222
+playlist name: indie mix, playlist score 33.78835
+playlist name: Chill, playlist score 33.61349
+playlist name: mumford, playlist score 33.48795
+playlist name: LOVELY, playlist score 33.41959
+playlist name: spring break, playlist score 33.39168
+playlist name: Feels, playlist score 33.34463
+playlist name: woodstock, playlist score 33.31895
+playlist name: colorado, playlist score 32.27605
+playlist name: Hi, playlist score 32.15363
+playlist name: Run for your life!, playlist score 31.71369
+playlist name: wow, playlist score 31.62143
+playlist name: miscellaneous, playlist score 31.40703
+playlist name: road trip, playlist score 31.38214
+playlist name: Acoustic, playlist score 31.13368
+playlist name: sad tunes, playlist score 31.1268
+playlist name: Em, playlist score 31.00851
+playlist name: Soft Pop, playlist score 30.90422
+playlist name: Folksy, playlist score 30.37734
+playlist name: Road Trip, playlist score 30.32615
+playlist name: Love, playlist score 30.14094
+playlist name: wedding, playlist score 30.10217
+playlist name: rad, playlist score 29.98111
+playlist name: ((chris)), playlist score 29.95426
+playlist name: folk, playlist score 29.79832
+playlist name: alternative, playlist score 29.77702
+playlist name: twenty sixteen, playlist score 29.74286
+playlist name: Sunday Morning, playlist score 29.67759
+playlist name: Nikita, playlist score 29.59574
+playlist name: Sean, playlist score 29.37102
+playlist name: chill, playlist score 29.33802
+playlist name: Feel Good, playlist score 29.18101
+playlist name: Sleep, playlist score 29.12928
+playlist name: Cool Down, playlist score 28.94861
+playlist name: Nostalgia, playlist score 28.86915
+playlist name: Car Rides, playlist score 28.70896
+playlist name: Danielle, playlist score 28.61631
+playlist name: Indie Folk, playlist score 28.56089
+playlist name: Luke!, playlist score 28.4066
+playlist name: PURPLE, playlist score 28.27018
+playlist name: Work, playlist score 27.98953
+playlist name: van, playlist score 27.85673
+playlist name: Oh Happy Day., playlist score 27.18439
+playlist name: Indie stuff, playlist score 27.01294
+playlist name: Indie Summer, playlist score 26.97362
+playlist name: Acoustics, playlist score 26.6513
+playlist name: Bruh, playlist score 26.57959
+playlist name: Hangout, playlist score 26.52162
+playlist name: Relax, playlist score 26.50785
+playlist name: Inspiration, playlist score 26.49089
+playlist name: Thanksgiving, playlist score 26.328
+playlist name: Chillout, playlist score 26.20317
+playlist name: 2013, playlist score 26.00146
+playlist name: Yoga, playlist score 25.98518
+playlist name: A little bit of everything, playlist score 25.95757
+playlist name: Marathon, playlist score 25.90067
+playlist name: day to day, playlist score 25.84019
+playlist name: Trippin, playlist score 25.35907
+playlist name: deep sleep, playlist score 25.06738
+playlist name: butterflies, playlist score 24.76278
+playlist name: Lounging, playlist score 24.48143
+playlist name: Victor, playlist score 24.47697
+playlist name: just chill, playlist score 24.19218
+playlist name: jams, playlist score 24.01554
+playlist name: alt, playlist score 23.93662
+playlist name: Sunday, playlist score 23.90927
+playlist name: Listen, playlist score 23.745
+playlist name: Sky, playlist score 23.41657
+playlist name: Relax, playlist score 23.2203
+playlist name: alt, playlist score 22.76066
+playlist name: 2015-2016, playlist score 22.60376
+playlist name: Alternative, playlist score 22.51242
+playlist name: For You, playlist score 22.38712
+playlist name: DA, playlist score 22.26089
+playlist name: Traffic Jams, playlist score 22.07966

@@ -3,7 +3,8 @@ import re
 from elasticsearch import Elasticsearch
 es = Elasticsearch()
 
-with open('challenge/challenge.pt4.notracks.json') as f:
+#with open('challenge/challenge.pt4.notracks.json') as f:
+with open('challenge/challenge.pt5.notracks.json') as f:
     challenge = json.load(f)
 #es.indices.delete(index='challenge')
 #es.indices.create(index='challenge', ignore=400)
@@ -12,6 +13,9 @@ more_like_string = ""
 query = ""
 #if there are no tracks in playlist
 if len(challenge["tracks"]) == 0:
+    #first try to figure out if it is some singer
+
+    #second find synonyms of the word, give bigger score to the one similar to real name of playlist, less score to synonyms
     more_like_string = challenge["name"]
     query = "{ \"query\" :{\"more_like_this\" : {\"fields\" : [\"name\"], \"like\":\"" + re.sub('\W', ' ', more_like_string) + "\",\"min_term_freq\" : 1}}}"
 else:
@@ -31,5 +35,6 @@ for hit in res['hits']['hits']:
     #print str(playlist_score)
     score_results += "playlist name: " + playlist_name.encode('utf-8').strip() + ", playlist score " + str(round(playlist_score, 5)) + "\n"
 
-with open("results/results4.notracks.txt", "w") as text_file:
+#with open("results/results4.notracks.txt", "w") as text_file:
+with open("results/results5.notracks.txt", "w") as text_file:
     text_file.write(score_results)

@@ -1,0 +1,8 @@
+{
+    "name": "Piano Covers", 
+    "num_holdouts": 50, 
+    "pid": 1000112, 
+    "num_tracks": 50, 
+    "tracks": [], 
+    "num_samples": 0
+}

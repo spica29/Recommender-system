@@ -1,0 +1,59 @@
+{
+    "name": "90s-2000s", 
+    "num_holdouts": 75, 
+    "pid": 1000857, 
+    "num_tracks": 80, 
+    "tracks": [
+        {
+            "pos": 0, 
+            "artist_name": "*NSYNC", 
+            "track_uri": "spotify:track:73q3FpQVXWk5eSUnyo83E4", 
+            "artist_uri": "spotify:artist:6Ff53KvcvAj5U7Z1vojB5o", 
+            "track_name": "Tearin' up My Heart - Radio Edit", 
+            "album_uri": "spotify:album:7K5qlneuWF1CcY6ERzwkLB", 
+            "duration_ms": 209400, 
+            "album_name": "'N Sync UK Version"
+        }, 
+        {
+            "pos": 1, 
+            "artist_name": "Britney Spears", 
+            "track_uri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa", 
+            "artist_uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4", 
+            "track_name": "...Baby One More Time", 
+            "album_uri": "spotify:album:3WNxdumkSMGMJRhEgK80qx", 
+            "duration_ms": 211066, 
+            "album_name": "...Baby One More Time (Digital Deluxe Version)"
+        }, 
+        {
+            "pos": 2, 
+            "artist_name": "Christina Aguilera", 
+            "track_uri": "spotify:track:2EVv4Vxu3HGPr32CQecgHx", 
+            "artist_uri": "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS", 
+            "track_name": "Genie in a Bottle", 
+            "album_uri": "spotify:album:2alhzWaLZ5wXZ0oJAo38aS", 
+            "duration_ms": 217573, 
+            "album_name": "Christina Aguilera"
+        }, 
+        {
+            "pos": 3, 
+            "artist_name": "Backstreet Boys", 
+            "track_uri": "spotify:track:0d8ZbnRoW1TJ3qEleTrYHH", 
+            "artist_uri": "spotify:artist:5rSXSAkZ67PYJSvpUpkOr7", 
+            "track_name": "I Want It That Way", 
+            "album_uri": "spotify:album:3G3ElgskQS2wIQ8zA1MZ0r", 
+            "duration_ms": 213306, 
+            "album_name": "Original Album Classics"
+        }, 
+        {
+            "pos": 4, 
+            "artist_name": "Spice Girls", 
+            "track_uri": "spotify:track:1Je1IMUlBXcx1Fz0WE7oPT", 
+            "artist_uri": "spotify:artist:0uq5PttqEjj3IH1bzwcrXF", 
+            "track_name": "Wannabe - Radio Edit", 
+            "album_uri": "spotify:album:3x2jF7blR6bFHtk4MccsyJ", 
+            "duration_ms": 173026, 
+            "album_name": "Spice"
+        }
+    ], 
+    "num_samples": 5
+}

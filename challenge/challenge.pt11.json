@@ -1,0 +1,1009 @@
+{
+    "name": "new country", 
+    "num_holdouts": 89, 
+    "pid": 1026503, 
+    "num_tracks": 189, 
+    "tracks": [
+        {
+            "pos": 0, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:74uXfGRDayyx7UIV1irrhK", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Wrong Turns", 
+            "album_uri": "spotify:album:1G4WDlYjm0VqgyEymNJRcf", 
+            "duration_ms": 208480, 
+            "album_name": "Meat and Candy"
+        }, 
+        {
+            "pos": 1, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:1mffZcVGwEqf9Xbdww0kCD", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Beer Can in a Truck Bed", 
+            "album_uri": "spotify:album:1G4WDlYjm0VqgyEymNJRcf", 
+            "duration_ms": 201466, 
+            "album_name": "Meat and Candy"
+        }, 
+        {
+            "pos": 2, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:6arLnfArtdWKOcCYzDd4rS", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Nowhere Fast", 
+            "album_uri": "spotify:album:1G4WDlYjm0VqgyEymNJRcf", 
+            "duration_ms": 188960, 
+            "album_name": "Meat and Candy"
+        }, 
+        {
+            "pos": 3, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:5ZManJDV3CexO66nRCkdiV", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Break Up with Him", 
+            "album_uri": "spotify:album:1G4WDlYjm0VqgyEymNJRcf", 
+            "duration_ms": 207733, 
+            "album_name": "Meat and Candy"
+        }, 
+        {
+            "pos": 4, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:49sOBld6iKsIHWDo3FGKFz", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Shut Me Up", 
+            "album_uri": "spotify:album:0SvH8lVZa6ROuPhNn8EIEz", 
+            "duration_ms": 171120, 
+            "album_name": "Shut Me Up"
+        }, 
+        {
+            "pos": 5, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:74uXfGRDayyx7UIV1irrhK", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Wrong Turns", 
+            "album_uri": "spotify:album:1G4WDlYjm0VqgyEymNJRcf", 
+            "duration_ms": 208480, 
+            "album_name": "Meat and Candy"
+        }, 
+        {
+            "pos": 6, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:0Nbt4RXC43rLB7Pej7Le68", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Dirt on a Road", 
+            "album_uri": "spotify:album:5aEMu35127odCG8LN9LGWc", 
+            "duration_ms": 179600, 
+            "album_name": "Dirt on a Road"
+        }, 
+        {
+            "pos": 7, 
+            "artist_name": "Old Dominion", 
+            "track_uri": "spotify:track:1E1LaXgZRkBOljpGXtlR7B", 
+            "artist_uri": "spotify:artist:6y8XlgIV8BLlIg1tT1R10i", 
+            "track_name": "Wake up Loving You", 
+            "album_uri": "spotify:album:5khSHsmQhkTJ1iJr5FdAP8", 
+            "duration_ms": 228013, 
+            "album_name": "Old Dominion Originals"
+        }, 
+        {
+            "pos": 8, 
+            "artist_name": "Cody Johnson", 
+            "track_uri": "spotify:track:0MbcutYUIQAtgtlLRHS6Cl", 
+            "artist_uri": "spotify:artist:6zLBxLdl60ekBLpawtT63I", 
+            "track_name": "Ride With Me", 
+            "album_uri": "spotify:album:3KzIZXKtYfxYkoHmLU1R3k", 
+            "duration_ms": 215600, 
+            "album_name": "A Different Day"
+        }, 
+        {
+            "pos": 9, 
+            "artist_name": "Josh Abbott Band", 
+            "track_uri": "spotify:track:35DciiuaU8Lut9EkrlP4wR", 
+            "artist_uri": "spotify:artist:2EJ5MRZCzpHSSNNEpTx9Kb", 
+            "track_name": "Oh, Tonight (feat. Kacey Musgraves)", 
+            "album_uri": "spotify:album:3GQWEiCkBX2tyr0D1Y60au", 
+            "duration_ms": 205506, 
+            "album_name": "She's Like Texas"
+        }, 
+        {
+            "pos": 10, 
+            "artist_name": "Josh Abbott Band", 
+            "track_uri": "spotify:track:0snR8l4kMiQtm0wbV4Dhsg", 
+            "artist_uri": "spotify:artist:2EJ5MRZCzpHSSNNEpTx9Kb", 
+            "track_name": "Hangin' Around", 
+            "album_uri": "spotify:album:5TV22ODrj3onIaHjwcWGCi", 
+            "duration_ms": 172653, 
+            "album_name": "Tuesday Night EP"
+        }, 
+        {
+            "pos": 11, 
+            "artist_name": "Josh Abbott Band", 
+            "track_uri": "spotify:track:5D2MXE66urS6FP6GjgoJtp", 
+            "artist_uri": "spotify:artist:2EJ5MRZCzpHSSNNEpTx9Kb", 
+            "track_name": "She Will Be Free", 
+            "album_uri": "spotify:album:5QthBTvWPcmOgaH49DODSK", 
+            "duration_ms": 257213, 
+            "album_name": "Small Town Family Dream"
+        }, 
+        {
+            "pos": 12, 
+            "artist_name": "Daniel Lee", 
+            "track_uri": "spotify:track:2zwvs7Qy7ja6EVcq30B5Ae", 
+            "artist_uri": "spotify:artist:6l3pNvLTkJiDE3V1SLSGCj", 
+            "track_name": "Head over Heels", 
+            "album_uri": "spotify:album:17xV5GsJlGpAgLCHvGEK2M", 
+            "duration_ms": 204472, 
+            "album_name": "Roots"
+        }, 
+        {
+            "pos": 13, 
+            "artist_name": "Daniel Lee", 
+            "track_uri": "spotify:track:2juieRO9NBnjpNeGCqmWHd", 
+            "artist_uri": "spotify:artist:6l3pNvLTkJiDE3V1SLSGCj", 
+            "track_name": "For Sale Sign", 
+            "album_uri": "spotify:album:17xV5GsJlGpAgLCHvGEK2M", 
+            "duration_ms": 208298, 
+            "album_name": "Roots"
+        }, 
+        {
+            "pos": 14, 
+            "artist_name": "Daniel Lee", 
+            "track_uri": "spotify:track:2udMt24TM0t5iTbFLzDENh", 
+            "artist_uri": "spotify:artist:6l3pNvLTkJiDE3V1SLSGCj", 
+            "track_name": "Georgia Asphalt Road", 
+            "album_uri": "spotify:album:17xV5GsJlGpAgLCHvGEK2M", 
+            "duration_ms": 219664, 
+            "album_name": "Roots"
+        }, 
+        {
+            "pos": 15, 
+            "artist_name": "Brothers Osborne", 
+            "track_uri": "spotify:track:6WuDyzpi8uX8atZvIQGVbT", 
+            "artist_uri": "spotify:artist:39NR3AUhpbbqKM33vWn2fp", 
+            "track_name": "Stay A Little Longer - Demo", 
+            "album_uri": "spotify:album:7xiDBY4VdkEgAp5Ua60MBi", 
+            "duration_ms": 255666, 
+            "album_name": "Brothers Osborne"
+        }, 
+        {
+            "pos": 16, 
+            "artist_name": "Lee Brice", 
+            "track_uri": "spotify:track:4L27xbWhhvox73sBoeo4qU", 
+            "artist_uri": "spotify:artist:5Zq7R5qmi58ByYyBQTlNuk", 
+            "track_name": "Good Man", 
+            "album_uri": "spotify:album:1Ug5qpIXouUHY5hpFj6575", 
+            "duration_ms": 204613, 
+            "album_name": "I Don't Dance"
+        }, 
+        {
+            "pos": 17, 
+            "artist_name": "Lee Brice", 
+            "track_uri": "spotify:track:2Ut42k0izCeE4TPKHGP0mf", 
+            "artist_uri": "spotify:artist:5Zq7R5qmi58ByYyBQTlNuk", 
+            "track_name": "More My style", 
+            "album_uri": "spotify:album:1Ug5qpIXouUHY5hpFj6575", 
+            "duration_ms": 225853, 
+            "album_name": "I Don't Dance"
+        }, 
+        {
+            "pos": 18, 
+            "artist_name": "Lee Brice", 
+            "track_uri": "spotify:track:0qRDi0gzWey31yKuWx2Swy", 
+            "artist_uri": "spotify:artist:5Zq7R5qmi58ByYyBQTlNuk", 
+            "track_name": "Show You off Tonight", 
+            "album_uri": "spotify:album:1Ug5qpIXouUHY5hpFj6575", 
+            "duration_ms": 233880, 
+            "album_name": "I Don't Dance"
+        }, 
+        {
+            "pos": 19, 
+            "artist_name": "Lee Brice", 
+            "track_uri": "spotify:track:5Kb5utdaR6qXYZ9WpgoKWm", 
+            "artist_uri": "spotify:artist:5Zq7R5qmi58ByYyBQTlNuk", 
+            "track_name": "Drinking class", 
+            "album_uri": "spotify:album:1Ug5qpIXouUHY5hpFj6575", 
+            "duration_ms": 207346, 
+            "album_name": "I Don't Dance"
+        }, 
+        {
+            "pos": 20, 
+            "artist_name": "Logan Mize", 
+            "track_uri": "spotify:track:1yvzYavh4oRiAVoy5f1kqD", 
+            "artist_uri": "spotify:artist:7tje8UB3cuR1ZfeJx2U38T", 
+            "track_name": "Used Up", 
+            "album_uri": "spotify:album:1hZVwGZUr4PgSdYMNmiiSk", 
+            "duration_ms": 237871, 
+            "album_name": "Used Up"
+        }, 
+        {
+            "pos": 21, 
+            "artist_name": "Thomas Rhett", 
+            "track_uri": "spotify:track:5w95ogMPIe72VekD4UKh1y", 
+            "artist_uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8", 
+            "track_name": "Sorry For Partyin'", 
+            "album_uri": "spotify:album:2ZHYOFW5giX6a4n5eqTnUB", 
+            "duration_ms": 207426, 
+            "album_name": "It Goes Like This"
+        }, 
+        {
+            "pos": 22, 
+            "artist_name": "Chase Rice", 
+            "track_uri": "spotify:track:4CgEARPGRltAQaJr1tRsoE", 
+            "artist_uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn", 
+            "track_name": "Gonna Wanna Tonight", 
+            "album_uri": "spotify:album:4LTFy1RLwpzADCbAOTQqVz", 
+            "duration_ms": 214949, 
+            "album_name": "Ignite the Night"
+        }, 
+        {
+            "pos": 23, 
+            "artist_name": "Tyler Farr", 
+            "track_uri": "spotify:track:16PNN9wK1LbedzcTp7y8y0", 
+            "artist_uri": "spotify:artist:3vHV92ecrylnUHDM4d2MtC", 
+            "track_name": "A Guy Walks into a Bar", 
+            "album_uri": "spotify:album:2aUyGuWWZhUTBoBb3l2ym5", 
+            "duration_ms": 196000, 
+            "album_name": "Suffer in Peace"
+        }, 
+        {
+            "pos": 24, 
+            "artist_name": "Tyler Farr", 
+            "track_uri": "spotify:track:15TgU8pOzIj6RhijKNFta6", 
+            "artist_uri": "spotify:artist:3vHV92ecrylnUHDM4d2MtC", 
+            "track_name": "Ain't Even Drinkin'", 
+            "album_uri": "spotify:album:1xQUjeEsRKo7zLiOPAgTlD", 
+            "duration_ms": 215080, 
+            "album_name": "Redneck Crazy"
+        }, 
+        {
+            "pos": 25, 
+            "artist_name": "Sundy Best", 
+            "track_uri": "spotify:track:0bKF4NZOifrcwCyadnc8pV", 
+            "artist_uri": "spotify:artist:21lH0EoFGV5oUmyCZuz7jg", 
+            "track_name": "Until I Met You", 
+            "album_uri": "spotify:album:0qwgIelLvHySDcHRnpfaA9", 
+            "duration_ms": 175680, 
+            "album_name": "Bring Up The Sun"
+        }, 
+        {
+            "pos": 26, 
+            "artist_name": "Sundy Best", 
+            "track_uri": "spotify:track:1kj2m1jcc4Q6s8ujHvuvO8", 
+            "artist_uri": "spotify:artist:21lH0EoFGV5oUmyCZuz7jg", 
+            "track_name": "I Wanna Go Home", 
+            "album_uri": "spotify:album:0qwgIelLvHySDcHRnpfaA9", 
+            "duration_ms": 227720, 
+            "album_name": "Bring Up The Sun"
+        }, 
+        {
+            "pos": 27, 
+            "artist_name": "Dakota Bradley", 
+            "track_uri": "spotify:track:6qa3t7LJuomwmlqiMOGdlv", 
+            "artist_uri": "spotify:artist:6QoxzoWKLmiQmHChfmRsd1", 
+            "track_name": "Wild Child", 
+            "album_uri": "spotify:album:4mfKgUyaOUYuNtnKl37rl5", 
+            "duration_ms": 200852, 
+            "album_name": "Wild Child"
+        }, 
+        {
+            "pos": 28, 
+            "artist_name": "Hogg Maulies", 
+            "track_uri": "spotify:track:6st6lkkV7SQg9wxvlZ7F4y", 
+            "artist_uri": "spotify:artist:093iaIBxWjoTYWQi2x0idB", 
+            "track_name": "Whatever You Throw", 
+            "album_uri": "spotify:album:324fJoXCvtHM7qEjkyH7On", 
+            "duration_ms": 233965, 
+            "album_name": "August Rain"
+        }, 
+        {
+            "pos": 29, 
+            "artist_name": "Green River Ordinance", 
+            "track_uri": "spotify:track:2LaoI1GMcL2fBO4uZfmon7", 
+            "artist_uri": "spotify:artist:6Yuow6YoiBaVPFNjZ5BQi7", 
+            "track_name": "Heart of Me", 
+            "album_uri": "spotify:album:5M8KlKcuRbCgIE7Yx7u99m", 
+            "duration_ms": 209773, 
+            "album_name": "Under Fire"
+        }, 
+        {
+            "pos": 30, 
+            "artist_name": "Green River Ordinance", 
+            "track_uri": "spotify:track:7KeSMKp6YTKg6sZqvH3FS8", 
+            "artist_uri": "spotify:artist:6Yuow6YoiBaVPFNjZ5BQi7", 
+            "track_name": "Flying", 
+            "album_uri": "spotify:album:2DHVyrXDHU1Bon69m1BaMy", 
+            "duration_ms": 205221, 
+            "album_name": "Chasing Down the Wind"
+        }, 
+        {
+            "pos": 31, 
+            "artist_name": "Green River Ordinance", 
+            "track_uri": "spotify:track:663BdiOMzIQglSd7AaMUSN", 
+            "artist_uri": "spotify:artist:6Yuow6YoiBaVPFNjZ5BQi7", 
+            "track_name": "It Ain't Love", 
+            "album_uri": "spotify:album:2DHVyrXDHU1Bon69m1BaMy", 
+            "duration_ms": 247768, 
+            "album_name": "Chasing Down the Wind"
+        }, 
+        {
+            "pos": 32, 
+            "artist_name": "Granger Smith", 
+            "track_uri": "spotify:track:7IU50h8qKl40dXMjifLfH4", 
+            "artist_uri": "spotify:artist:4sTFGCigAQIUiEy8wSSQNF", 
+            "track_name": "Silverado Bench Seat", 
+            "album_uri": "spotify:album:4cWjWjEy7OwP7GAfigCq5v", 
+            "duration_ms": 177226, 
+            "album_name": "Dirt Road Driveway"
+        }, 
+        {
+            "pos": 33, 
+            "artist_name": "Turnpike Troubadours", 
+            "track_uri": "spotify:track:62EcdBCqjB62CxnhgBkkJT", 
+            "artist_uri": "spotify:artist:1YSA4byX5AL1zoTsSTlB03", 
+            "track_name": "7 & 7", 
+            "album_uri": "spotify:album:5I249HRmXIxJw3IQDUOP5p", 
+            "duration_ms": 289653, 
+            "album_name": "Diamonds & Gasoline"
+        }, 
+        {
+            "pos": 34, 
+            "artist_name": "Turnpike Troubadours", 
+            "track_uri": "spotify:track:3l4cnZdtNbVZgV3ICYh1Ni", 
+            "artist_uri": "spotify:artist:1YSA4byX5AL1zoTsSTlB03", 
+            "track_name": "Every Girl", 
+            "album_uri": "spotify:album:5I249HRmXIxJw3IQDUOP5p", 
+            "duration_ms": 225920, 
+            "album_name": "Diamonds & Gasoline"
+        }, 
+        {
+            "pos": 35, 
+            "artist_name": "Little Big Town", 
+            "track_uri": "spotify:track:5pD1qwHvnKFcQ2qjwsoKYF", 
+            "artist_uri": "spotify:artist:3CygdxquGHurS7f9LjNLkv", 
+            "track_name": "Day Drinking", 
+            "album_uri": "spotify:album:5qCluq1Q0C0nnywyrLykkN", 
+            "duration_ms": 178840, 
+            "album_name": "Pain Killer"
+        }, 
+        {
+            "pos": 36, 
+            "artist_name": "Dolly Shine", 
+            "track_uri": "spotify:track:7HYmSpsl3EyKSWttauGT2P", 
+            "artist_uri": "spotify:artist:62KOMT8z56UAfFk3YMKHKL", 
+            "track_name": "Should've Known", 
+            "album_uri": "spotify:album:6cE1bw265E5feSPr2tKOQL", 
+            "duration_ms": 272834, 
+            "album_name": "Room to Breathe"
+        }, 
+        {
+            "pos": 37, 
+            "artist_name": "Logan Mize", 
+            "track_uri": "spotify:track:5WthD2hlmegmDcIrRUqeDh", 
+            "artist_uri": "spotify:artist:7tje8UB3cuR1ZfeJx2U38T", 
+            "track_name": "Good Life", 
+            "album_uri": "spotify:album:5rFQYN8ga4nXPD9KHUW77X", 
+            "duration_ms": 234813, 
+            "album_name": "Nobody in Nashville"
+        }, 
+        {
+            "pos": 38, 
+            "artist_name": "Sundy Best", 
+            "track_uri": "spotify:track:5qD33GKvsYfp9DVzCQyRGj", 
+            "artist_uri": "spotify:artist:21lH0EoFGV5oUmyCZuz7jg", 
+            "track_name": "These Days", 
+            "album_uri": "spotify:album:0qwgIelLvHySDcHRnpfaA9", 
+            "duration_ms": 243653, 
+            "album_name": "Bring Up The Sun"
+        }, 
+        {
+            "pos": 39, 
+            "artist_name": "Sundy Best", 
+            "track_uri": "spotify:track:3GUDOGt8FISAJE95tDx2UN", 
+            "artist_uri": "spotify:artist:21lH0EoFGV5oUmyCZuz7jg", 
+            "track_name": "Lily", 
+            "album_uri": "spotify:album:3bgA6mcbBoI8FnNnvERSJK", 
+            "duration_ms": 274853, 
+            "album_name": "Door Without A Screen (Deluxe Edition)"
+        }, 
+        {
+            "pos": 40, 
+            "artist_name": "Sundy Best", 
+            "track_uri": "spotify:track:5YT04pJQ0rb8Ezl993xfeD", 
+            "artist_uri": "spotify:artist:21lH0EoFGV5oUmyCZuz7jg", 
+            "track_name": "Smoking Gun", 
+            "album_uri": "spotify:album:0qwgIelLvHySDcHRnpfaA9", 
+            "duration_ms": 234826, 
+            "album_name": "Bring Up The Sun"
+        }, 
+        {
+            "pos": 41, 
+            "artist_name": "Logan Mize", 
+            "track_uri": "spotify:track:1kzv2hzrXEcBmkEqMwsLLx", 
+            "artist_uri": "spotify:artist:7tje8UB3cuR1ZfeJx2U38T", 
+            "track_name": "Can't Get Away from a Good Time", 
+            "album_uri": "spotify:album:5QGpQEVp3h7SWjucF6COfH", 
+            "duration_ms": 253693, 
+            "album_name": "Can't Get Away from a Good Time"
+        }, 
+        {
+            "pos": 42, 
+            "artist_name": "Brothers Osborne", 
+            "track_uri": "spotify:track:7cyv1UfIYcZJDQ8pVfL3G4", 
+            "artist_uri": "spotify:artist:39NR3AUhpbbqKM33vWn2fp", 
+            "track_name": "Let's Go There", 
+            "album_uri": "spotify:album:4FLF0urmDjS1bXmT9UfInr", 
+            "duration_ms": 177986, 
+            "album_name": "Let's Go There"
+        }, 
+        {
+            "pos": 43, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:1hc31O4qhv2tnSnW1290KC", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "What I Can't Put Down", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 203373, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 44, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:1JvF1A4iFynnOyvb8WKl6v", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "Empty Beer Cans", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 209053, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 45, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:59O0lOCAMdBugXQrEGR6A6", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "When I've Been Drinkin'", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 197546, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 46, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:0croVY19mnuq07RKfbSPfO", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "Chasin' Them Better Days", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 263506, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 47, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:1HdrHZQ620XujjLf4SDYg9", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "Trash A Hotel Room", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 226266, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 48, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:6IZOFyH8xMfxdDOq4NyotO", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "Love You From Here", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 213040, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 49, 
+            "artist_name": "Jon Pardi", 
+            "track_uri": "spotify:track:0OaMDKHLCkUNVnxvQbaiDQ", 
+            "artist_uri": "spotify:artist:4MoAOfV4ROWofLG3a3hhBN", 
+            "track_name": "Write You A Song", 
+            "album_uri": "spotify:album:06gZYBNkDbO8Rl36rbMvkW", 
+            "duration_ms": 185800, 
+            "album_name": "Write You A Song"
+        }, 
+        {
+            "pos": 50, 
+            "artist_name": "Sam Hunt", 
+            "track_uri": "spotify:track:6eYYm2xwrvdav2yakF3cqg", 
+            "artist_uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38", 
+            "track_name": "Leave The Night On", 
+            "album_uri": "spotify:album:1M0vpI6KG4y0RwRuQ8SQxT", 
+            "duration_ms": 192160, 
+            "album_name": "Montevallo"
+        }, 
+        {
+            "pos": 51, 
+            "artist_name": "Frankie Ballard", 
+            "track_uri": "spotify:track:6aNwDe5YH5YUPlpHkku52w", 
+            "artist_uri": "spotify:artist:0dvKgSdNB2U1gfp6ZcekYi", 
+            "track_name": "Sunshine & Whiskey", 
+            "album_uri": "spotify:album:5VYrfPF3z9311jpQYEWjof", 
+            "duration_ms": 182400, 
+            "album_name": "Sunshine & Whiskey"
+        }, 
+        {
+            "pos": 52, 
+            "artist_name": "Frankie Ballard", 
+            "track_uri": "spotify:track:6ll39ALTlddWWQZLjSFlwM", 
+            "artist_uri": "spotify:artist:0dvKgSdNB2U1gfp6ZcekYi", 
+            "track_name": "Young & Crazy", 
+            "album_uri": "spotify:album:5VYrfPF3z9311jpQYEWjof", 
+            "duration_ms": 180346, 
+            "album_name": "Sunshine & Whiskey"
+        }, 
+        {
+            "pos": 53, 
+            "artist_name": "Chris Lane", 
+            "track_uri": "spotify:track:5KjXOF5S3M3AT1LdXDBVEt", 
+            "artist_uri": "spotify:artist:68abRTdO4meYReMWHvBYb0", 
+            "track_name": "Broken Windshield View", 
+            "album_uri": "spotify:album:0283Kjym3tsWxEc58ajNUM", 
+            "duration_ms": 204520, 
+            "album_name": "Broken Windshield View"
+        }, 
+        {
+            "pos": 54, 
+            "artist_name": "Tyler Farr", 
+            "track_uri": "spotify:track:5E4CJfa6yZNGSKVFSUgaBt", 
+            "artist_uri": "spotify:artist:3vHV92ecrylnUHDM4d2MtC", 
+            "track_name": "Whiskey in My Water", 
+            "album_uri": "spotify:album:1xQUjeEsRKo7zLiOPAgTlD", 
+            "duration_ms": 188146, 
+            "album_name": "Redneck Crazy"
+        }, 
+        {
+            "pos": 55, 
+            "artist_name": "Thomas Rhett", 
+            "track_uri": "spotify:track:0mahSEa17a2ouPEY9gPTTW", 
+            "artist_uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8", 
+            "track_name": "Take You Home", 
+            "album_uri": "spotify:album:2ZHYOFW5giX6a4n5eqTnUB", 
+            "duration_ms": 217546, 
+            "album_name": "It Goes Like This"
+        }, 
+        {
+            "pos": 56, 
+            "artist_name": "Kip Moore", 
+            "track_uri": "spotify:track:3l7mAAEUlVhDeTksZtW36i", 
+            "artist_uri": "spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM", 
+            "track_name": "Dirt Road", 
+            "album_uri": "spotify:album:6TNakKYc65P4LE94LEoyGL", 
+            "duration_ms": 203026, 
+            "album_name": "Dirt Road"
+        }, 
+        {
+            "pos": 57, 
+            "artist_name": "The Cadillac Three", 
+            "track_uri": "spotify:track:211JOWr9jU267Jyq3zJN3K", 
+            "artist_uri": "spotify:artist:1nivFfWu6oXBFDNyVfFU5x", 
+            "track_name": "Party Like You", 
+            "album_uri": "spotify:album:38EqiWi4sn8aQzvg32Zm5D", 
+            "duration_ms": 185666, 
+            "album_name": "Bury Me In My Boots"
+        }, 
+        {
+            "pos": 58, 
+            "artist_name": "Dustin Lynch", 
+            "track_uri": "spotify:track:4whYDpJ5XVQpmvecbEHP5Q", 
+            "artist_uri": "spotify:artist:1dID9zgn0OV0Y8ud7Mh2tS", 
+            "track_name": "Where It's At", 
+            "album_uri": "spotify:album:4ZSQEnZOGWEW3XQOAzt477", 
+            "duration_ms": 204186, 
+            "album_name": "Where It's At"
+        }, 
+        {
+            "pos": 59, 
+            "artist_name": "Eric Paslay", 
+            "track_uri": "spotify:track:66rVt7PbwyKlu6CK6rxyAi", 
+            "artist_uri": "spotify:artist:4TONBKcqVR1LmPdfJxvkMU", 
+            "track_name": "Friday Night", 
+            "album_uri": "spotify:album:79RwxrHw6uKVimeEGyM00W", 
+            "duration_ms": 167213, 
+            "album_name": "Eric Paslay"
+        }, 
+        {
+            "pos": 60, 
+            "artist_name": "Dakota Bradley", 
+            "track_uri": "spotify:track:0YG4jhPGtXIl40bX8QgL6s", 
+            "artist_uri": "spotify:artist:6QoxzoWKLmiQmHChfmRsd1", 
+            "track_name": "Won't Be Young Forever", 
+            "album_uri": "spotify:album:6Y3JwXFSHimHuUANgFgSaw", 
+            "duration_ms": 197765, 
+            "album_name": "Won't Be Young Forever"
+        }, 
+        {
+            "pos": 61, 
+            "artist_name": "The Swon Brothers", 
+            "track_uri": "spotify:track:7lG4154Md1Kw7BMg56Pt4s", 
+            "artist_uri": "spotify:artist:1nf0nRF0W4ybnJdda00pKY", 
+            "track_name": "Later On", 
+            "album_uri": "spotify:album:6O1P8K69uFGvCfpyAvdsx1", 
+            "duration_ms": 217160, 
+            "album_name": "The Swon Brothers"
+        }, 
+        {
+            "pos": 62, 
+            "artist_name": "David Nail", 
+            "track_uri": "spotify:track:6VRA3GzddUG3okSUjdzgYo", 
+            "artist_uri": "spotify:artist:4DZGvSv2oMkBUnPz67E6z6", 
+            "track_name": "Kiss You Tonight", 
+            "album_uri": "spotify:album:53ljIT3F5IV2YP0fVdlSGo", 
+            "duration_ms": 230293, 
+            "album_name": "I'm A Fire"
+        }, 
+        {
+            "pos": 63, 
+            "artist_name": "Joe Nichols", 
+            "track_uri": "spotify:track:7pEjMcUwSQ8E6dzi3AiWHu", 
+            "artist_uri": "spotify:artist:4aJTB79uwT4sP0Nb8QGWHc", 
+            "track_name": "Hard to Be Cool", 
+            "album_uri": "spotify:album:4maav8jTujRDfFU7AGG7xo", 
+            "duration_ms": 185600, 
+            "album_name": "Crickets"
+        }, 
+        {
+            "pos": 64, 
+            "artist_name": "Joe Nichols", 
+            "track_uri": "spotify:track:1a0U3FG3wCvqr2DOhB6Hu8", 
+            "artist_uri": "spotify:artist:4aJTB79uwT4sP0Nb8QGWHc", 
+            "track_name": "Smile on Mine", 
+            "album_uri": "spotify:album:4maav8jTujRDfFU7AGG7xo", 
+            "duration_ms": 163733, 
+            "album_name": "Crickets"
+        }, 
+        {
+            "pos": 65, 
+            "artist_name": "Sam Hunt", 
+            "track_uri": "spotify:track:1zZsJ9WmtuDxw5T08GEQTX", 
+            "artist_uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38", 
+            "track_name": "Saturday Night - Acoustic Mixtape", 
+            "album_uri": "spotify:album:0oDDkafimkfmBVssJF2X64", 
+            "duration_ms": 191746, 
+            "album_name": "Between The Pines"
+        }, 
+        {
+            "pos": 66, 
+            "artist_name": "Dallas Smith", 
+            "track_uri": "spotify:track:51icSLxygLXnJISIS9aQq7", 
+            "artist_uri": "spotify:artist:2HgKf6VcQtGmAKpNXidtiC", 
+            "track_name": "Nothin\u2019 But Summer", 
+            "album_uri": "spotify:album:5FZqk1xIGZb2DQijsyQJcy", 
+            "duration_ms": 189920, 
+            "album_name": "Tippin' Point"
+        }, 
+        {
+            "pos": 67, 
+            "artist_name": "Chase Bryant", 
+            "track_uri": "spotify:track:1FDcwJokvRk9bdvYdd46gc", 
+            "artist_uri": "spotify:artist:7io3MyhMxDZoBYXp4rlRFA", 
+            "track_name": "Take It on Back", 
+            "album_uri": "spotify:album:2ShpDxX7cuIiOhzoFwJOzv", 
+            "duration_ms": 244453, 
+            "album_name": "Chase Bryant"
+        }, 
+        {
+            "pos": 68, 
+            "artist_name": "Sam Hunt", 
+            "track_uri": "spotify:track:6vgmCLfl9GnkHL8LQ4wRly", 
+            "artist_uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38", 
+            "track_name": "House Party - Acoustic Mixtape", 
+            "album_uri": "spotify:album:0oDDkafimkfmBVssJF2X64", 
+            "duration_ms": 187293, 
+            "album_name": "Between The Pines"
+        }, 
+        {
+            "pos": 69, 
+            "artist_name": "Sam Hunt", 
+            "track_uri": "spotify:track:6vgmCLfl9GnkHL8LQ4wRly", 
+            "artist_uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38", 
+            "track_name": "House Party - Acoustic Mixtape", 
+            "album_uri": "spotify:album:0oDDkafimkfmBVssJF2X64", 
+            "duration_ms": 187293, 
+            "album_name": "Between The Pines"
+        }, 
+        {
+            "pos": 70, 
+            "artist_name": "Dan + Shay", 
+            "track_uri": "spotify:track:5B9YE5b1j6uJVGcfvjyjbw", 
+            "artist_uri": "spotify:artist:7z5WFjZAIYejWy0NI5lv4T", 
+            "track_name": "Somewhere Only We Know", 
+            "album_uri": "spotify:album:2Zkvy7eARxR3qjKNWMiwMa", 
+            "duration_ms": 186160, 
+            "album_name": "Where It All Began"
+        }, 
+        {
+            "pos": 71, 
+            "artist_name": "Glen Templeton", 
+            "track_uri": "spotify:track:3Zvvq2ArwY9Uj4lwQbfMAN", 
+            "artist_uri": "spotify:artist:58PGErqpV9jX7sXz5wmV6o", 
+            "track_name": "Ball Cap", 
+            "album_uri": "spotify:album:0DB5zRmkdygK32CaJhAkzG", 
+            "duration_ms": 159424, 
+            "album_name": "Ball Cap"
+        }, 
+        {
+            "pos": 72, 
+            "artist_name": "Chase Rice", 
+            "track_uri": "spotify:track:4cLtgCNLEMVUJZ9Tt8WnIr", 
+            "artist_uri": "spotify:artist:6pBNfggcZZDCmb0p92OnGn", 
+            "track_name": "We Goin' Out", 
+            "album_uri": "spotify:album:4LTFy1RLwpzADCbAOTQqVz", 
+            "duration_ms": 209300, 
+            "album_name": "Ignite the Night"
+        }, 
+        {
+            "pos": 73, 
+            "artist_name": "Logan Mize", 
+            "track_uri": "spotify:track:1CHlVXQDgHgtP3yGYkZiNl", 
+            "artist_uri": "spotify:artist:7tje8UB3cuR1ZfeJx2U38T", 
+            "track_name": "Boys From Back Home", 
+            "album_uri": "spotify:album:3GqDQP7y9xW4Pm5Ewtb2tn", 
+            "duration_ms": 205558, 
+            "album_name": "Logan Mize"
+        }, 
+        {
+            "pos": 74, 
+            "artist_name": "Love and Theft", 
+            "track_uri": "spotify:track:7miPrGyudA7iuKcPyGKubZ", 
+            "artist_uri": "spotify:artist:03a5eVjzFyQlR4XyVSwt4t", 
+            "track_name": "Night That You'll Never Forget", 
+            "album_uri": "spotify:album:4CM1cXdjEA6qCD7iatLZM4", 
+            "duration_ms": 217533, 
+            "album_name": "Night That You'll Never Forget"
+        }, 
+        {
+            "pos": 75, 
+            "artist_name": "Dallas Smith", 
+            "track_uri": "spotify:track:3qmE8l7fs6PplkJbEWplsF", 
+            "artist_uri": "spotify:artist:2HgKf6VcQtGmAKpNXidtiC", 
+            "track_name": "Tippin' Point", 
+            "album_uri": "spotify:album:1oHdXsmeNjbFYuIVhFoFsw", 
+            "duration_ms": 177466, 
+            "album_name": "Tippin' Point"
+        }, 
+        {
+            "pos": 76, 
+            "artist_name": "Lee Brice", 
+            "track_uri": "spotify:track:6WHvw1S1i1I7i9jtMFGWeS", 
+            "artist_uri": "spotify:artist:5Zq7R5qmi58ByYyBQTlNuk", 
+            "track_name": "Always the only one", 
+            "album_uri": "spotify:album:1Ug5qpIXouUHY5hpFj6575", 
+            "duration_ms": 233640, 
+            "album_name": "I Don't Dance"
+        }, 
+        {
+            "pos": 77, 
+            "artist_name": "Dallas Smith", 
+            "track_uri": "spotify:track:6ylIEI9NFYnyiWtE1j0vYR", 
+            "artist_uri": "spotify:artist:2HgKf6VcQtGmAKpNXidtiC", 
+            "track_name": "Wastin' Gas", 
+            "album_uri": "spotify:album:5DhZSA7fy3rg1W6baWvmWd", 
+            "duration_ms": 183251, 
+            "album_name": "Lifted"
+        }, 
+        {
+            "pos": 78, 
+            "artist_name": "Michael Ray", 
+            "track_uri": "spotify:track:6jRcSR1kOPWJYisvkFfjUV", 
+            "artist_uri": "spotify:artist:6ghiFYcwn2Vzl6K50U0UPz", 
+            "track_name": "Kiss You In The Morning", 
+            "album_uri": "spotify:album:1JBo2GmY1NskygCzWzGqHF", 
+            "duration_ms": 181400, 
+            "album_name": "Michael Ray"
+        }, 
+        {
+            "pos": 79, 
+            "artist_name": "Kip Moore", 
+            "track_uri": "spotify:track:15bIuGUsLwF0gxI48HKoEd", 
+            "artist_uri": "spotify:artist:2hJPr4lk7Q8SSvCVBl9fWM", 
+            "track_name": "I'm To Blame", 
+            "album_uri": "spotify:album:3rvfQP9TlSJGjFMkhNEDtY", 
+            "duration_ms": 136013, 
+            "album_name": "Wild Ones"
+        }, 
+        {
+            "pos": 80, 
+            "artist_name": "Easton Corbin", 
+            "track_uri": "spotify:track:6WCqjXvMxAN2yP4dzeoyhF", 
+            "artist_uri": "spotify:artist:070kGpqtESdDsLb3gdMIyx", 
+            "track_name": "Baby Be My Love Song", 
+            "album_uri": "spotify:album:4ac8fv4VYxKSLoSz1L8SjO", 
+            "duration_ms": 199746, 
+            "album_name": "About To Get Real"
+        }, 
+        {
+            "pos": 81, 
+            "artist_name": "High Valley", 
+            "track_uri": "spotify:track:4oy5Q9wzbg43LhlubipZIZ", 
+            "artist_uri": "spotify:artist:5sQqZtsAbXAoAnvA8iN9kN", 
+            "track_name": "She's With Me", 
+            "album_uri": "spotify:album:45quJBdVPBdYkv9OS2qj5w", 
+            "duration_ms": 180306, 
+            "album_name": "County Line"
+        }, 
+        {
+            "pos": 82, 
+            "artist_name": "Mantz Brothers", 
+            "track_uri": "spotify:track:4h79XVknKDS1iDnrgKDg4d", 
+            "artist_uri": "spotify:artist:0A9yxtiJnrMi7NcdIT6e04", 
+            "track_name": "One Kiss at a Time", 
+            "album_uri": "spotify:album:0UObUax6gpyjrbsm9ohgoF", 
+            "duration_ms": 195440, 
+            "album_name": "Mudtires & Bonfires"
+        }, 
+        {
+            "pos": 83, 
+            "artist_name": "High Valley", 
+            "track_uri": "spotify:track:44tlexN3Rxgake8xlZePPI", 
+            "artist_uri": "spotify:artist:5sQqZtsAbXAoAnvA8iN9kN", 
+            "track_name": "Make You Mine (feat. Ricky Skaggs)", 
+            "album_uri": "spotify:album:5VixDIbzrbPE5vjRngnL11", 
+            "duration_ms": 211198, 
+            "album_name": "County Line"
+        }, 
+        {
+            "pos": 84, 
+            "artist_name": "Dierks Bentley", 
+            "track_uri": "spotify:track:2sE61ZmvYH8wiOx5jygkHH", 
+            "artist_uri": "spotify:artist:7x8nK0m0cP2ksQf0mjWdPS", 
+            "track_name": "Say You Do", 
+            "album_uri": "spotify:album:5FoxaIGIRuXsbhZhwdfknU", 
+            "duration_ms": 219360, 
+            "album_name": "RISER"
+        }, 
+        {
+            "pos": 85, 
+            "artist_name": "Dierks Bentley", 
+            "track_uri": "spotify:track:6iXR53HZcqavpFeSsPldXI", 
+            "artist_uri": "spotify:artist:7x8nK0m0cP2ksQf0mjWdPS", 
+            "track_name": "Back Porch", 
+            "album_uri": "spotify:album:5FoxaIGIRuXsbhZhwdfknU", 
+            "duration_ms": 191440, 
+            "album_name": "RISER"
+        }, 
+        {
+            "pos": 86, 
+            "artist_name": "Dierks Bentley", 
+            "track_uri": "spotify:track:0HccAcPMNevr8ERJCWlFk3", 
+            "artist_uri": "spotify:artist:7x8nK0m0cP2ksQf0mjWdPS", 
+            "track_name": "Riser", 
+            "album_uri": "spotify:album:5FoxaIGIRuXsbhZhwdfknU", 
+            "duration_ms": 250000, 
+            "album_name": "RISER"
+        }, 
+        {
+            "pos": 87, 
+            "artist_name": "Dierks Bentley", 
+            "track_uri": "spotify:track:0IWGIreGx4YtYMOBALFqnm", 
+            "artist_uri": "spotify:artist:7x8nK0m0cP2ksQf0mjWdPS", 
+            "track_name": "Sounds Of Summer", 
+            "album_uri": "spotify:album:5FoxaIGIRuXsbhZhwdfknU", 
+            "duration_ms": 201973, 
+            "album_name": "RISER"
+        }, 
+        {
+            "pos": 88, 
+            "artist_name": "Dierks Bentley", 
+            "track_uri": "spotify:track:21kVLskPuIBHUyfJKYYwFQ", 
+            "artist_uri": "spotify:artist:7x8nK0m0cP2ksQf0mjWdPS", 
+            "track_name": "Bourbon In Kentucky", 
+            "album_uri": "spotify:album:5FoxaIGIRuXsbhZhwdfknU", 
+            "duration_ms": 225666, 
+            "album_name": "RISER"
+        }, 
+        {
+            "pos": 89, 
+            "artist_name": "Dierks Bentley", 
+            "track_uri": "spotify:track:3VNrNhf3jXTArLu2tCQ0Hw", 
+            "artist_uri": "spotify:artist:7x8nK0m0cP2ksQf0mjWdPS", 
+            "track_name": "Five", 
+            "album_uri": "spotify:album:5FoxaIGIRuXsbhZhwdfknU", 
+            "duration_ms": 285373, 
+            "album_name": "RISER"
+        }, 
+        {
+            "pos": 90, 
+            "artist_name": "Jake Owen", 
+            "track_uri": "spotify:track:0bvEKvSwtUFIz3cTo0Otjg", 
+            "artist_uri": "spotify:artist:1n2pb9Tsfe4SwAjmUac6YT", 
+            "track_name": "Ghost Town", 
+            "album_uri": "spotify:album:59ePhOhLFvSOFG4L5FRGzp", 
+            "duration_ms": 208506, 
+            "album_name": "Days of Gold"
+        }, 
+        {
+            "pos": 91, 
+            "artist_name": "Jake Owen", 
+            "track_uri": "spotify:track:4AyfPPuhqgQP6vhpjnkAIm", 
+            "artist_uri": "spotify:artist:1n2pb9Tsfe4SwAjmUac6YT", 
+            "track_name": "Life of the Party", 
+            "album_uri": "spotify:album:59ePhOhLFvSOFG4L5FRGzp", 
+            "duration_ms": 183853, 
+            "album_name": "Days of Gold"
+        }, 
+        {
+            "pos": 92, 
+            "artist_name": "Jake Owen", 
+            "track_uri": "spotify:track:1VGIXnd0GumOq0saCaLDQ0", 
+            "artist_uri": "spotify:artist:1n2pb9Tsfe4SwAjmUac6YT", 
+            "track_name": "Good Timing", 
+            "album_uri": "spotify:album:59ePhOhLFvSOFG4L5FRGzp", 
+            "duration_ms": 195200, 
+            "album_name": "Days of Gold"
+        }, 
+        {
+            "pos": 93, 
+            "artist_name": "Jake Owen", 
+            "track_uri": "spotify:track:3qh7eMvXXKWy7p9Nca3qoZ", 
+            "artist_uri": "spotify:artist:1n2pb9Tsfe4SwAjmUac6YT", 
+            "track_name": "Drivin' All Night", 
+            "album_uri": "spotify:album:59ePhOhLFvSOFG4L5FRGzp", 
+            "duration_ms": 235213, 
+            "album_name": "Days of Gold"
+        }, 
+        {
+            "pos": 94, 
+            "artist_name": "Eric Church", 
+            "track_uri": "spotify:track:1JfUMzuBnYNxBq7OgmhJAw", 
+            "artist_uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV", 
+            "track_name": "Roller Coaster Ride", 
+            "album_uri": "spotify:album:7Ad3sRoSJmRcjtd5Ce27Oj", 
+            "duration_ms": 276373, 
+            "album_name": "The Outsiders"
+        }, 
+        {
+            "pos": 95, 
+            "artist_name": "Eric Church", 
+            "track_uri": "spotify:track:7aIDFDOtrGE8bNv5bFN9Zc", 
+            "artist_uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV", 
+            "track_name": "Broke Record", 
+            "album_uri": "spotify:album:7Ad3sRoSJmRcjtd5Ce27Oj", 
+            "duration_ms": 209786, 
+            "album_name": "The Outsiders"
+        }, 
+        {
+            "pos": 96, 
+            "artist_name": "Eric Church", 
+            "track_uri": "spotify:track:20qkS51sD3ZAzFIUryztcg", 
+            "artist_uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV", 
+            "track_name": "Pledge Allegiance To The Hag", 
+            "album_uri": "spotify:album:1UiXoLoFB4ODK3YqH97Qrp", 
+            "duration_ms": 265680, 
+            "album_name": "Sinners Like Me"
+        }, 
+        {
+            "pos": 97, 
+            "artist_name": "Eric Church", 
+            "track_uri": "spotify:track:0X6LpTaCRqlMUmjCynuo5a", 
+            "artist_uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV", 
+            "track_name": "Livin' Part Of Life", 
+            "album_uri": "spotify:album:1UiXoLoFB4ODK3YqH97Qrp", 
+            "duration_ms": 269173, 
+            "album_name": "Sinners Like Me"
+        }, 
+        {
+            "pos": 98, 
+            "artist_name": "Eric Church", 
+            "track_uri": "spotify:track:1baFYT05FPHdlCmUkAMg7h", 
+            "artist_uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV", 
+            "track_name": "Jack Daniels - Live", 
+            "album_uri": "spotify:album:6Cw6WSX8DciwU0ax6QSEIS", 
+            "duration_ms": 271773, 
+            "album_name": "Caught In The Act: Live"
+        }, 
+        {
+            "pos": 99, 
+            "artist_name": "Eric Church", 
+            "track_uri": "spotify:track:1GuHdnhxKx4Ir4VKDp3AIs", 
+            "artist_uri": "spotify:artist:2IvkS5MXK0vPGnwyJsrEyV", 
+            "track_name": "Chevy Van", 
+            "album_uri": "spotify:album:7I52hxtmRa2RkCN3Os6igb", 
+            "duration_ms": 168391, 
+            "album_name": "Caldwell County EP"
+        }
+    ], 
+    "num_samples": 100
+}

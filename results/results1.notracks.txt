@@ -1,100 +1,201 @@
-playlist name: spanish playlist, playlist score 7.94904
-playlist name: Spanish playlist, playlist score 7.94904
-playlist name: Spanish, playlist score 6.67417
-playlist name: spanish, playlist score 6.67417
-playlist name: spanish, playlist score 6.67417
-playlist name: Spanish, playlist score 6.67417
-playlist name: Spanish, playlist score 6.44448
-playlist name: Spanish, playlist score 6.44448
-playlist name: Spanish, playlist score 6.44448
-playlist name: Spanish, playlist score 6.44448
-playlist name: spanish, playlist score 6.44448
-playlist name: spanish, playlist score 5.97723
-playlist name: spanish, playlist score 5.97723
-playlist name: spanish, playlist score 5.97723
-playlist name: spanish, playlist score 5.97723
-playlist name: spanish, playlist score 5.76979
-playlist name: spanish, playlist score 5.76979
-playlist name: Spanish, playlist score 5.76979
-playlist name: spanish..:), playlist score 5.76979
-playlist name: spanish, playlist score 5.76979
-playlist name: Spanish Guitar, playlist score 5.04985
-playlist name: SPANISH HITS!!!!, playlist score 5.04985
-playlist name: Playlist, playlist score 5.01165
-playlist name: Playlist, playlist score 5.01165
-playlist name: playlist, playlist score 5.01165
-playlist name: playlist, playlist score 5.01165
-playlist name: Playlist, playlist score 5.01165
-playlist name: playlist, playlist score 5.01165
-playlist name: Playlist, playlist score 5.01165
-playlist name: SPANISH ROCK, playlist score 4.84828
-playlist name: Spanish songs, playlist score 4.84828
-playlist name: Playlist, playlist score 4.76702
-playlist name: playlist, playlist score 4.76702
-playlist name: playlist, playlist score 4.76702
-playlist name: Playlist, playlist score 4.76702
-playlist name: playlist, playlist score 4.70252
-playlist name: Playlist, playlist score 4.70252
-playlist name: Playlist, playlist score 4.70252
-playlist name: PLAYLIST, playlist score 4.69334
-playlist name: Playlist, playlist score 4.69334
-playlist name: Playlist, playlist score 4.69334
-playlist name: playlist, playlist score 4.65922
-playlist name: Playlist, playlist score 4.65922
-playlist name: spanish jams, playlist score 4.50882
-playlist name: Spanish Music, playlist score 4.50882
-playlist name: spanish jams, playlist score 4.50882
-playlist name: Spanish jams, playlist score 4.50882
-playlist name: Spanish music, playlist score 4.50882
-playlist name: Spanish Songs, playlist score 4.50882
-playlist name: spanish rock, playlist score 4.50882
-playlist name: spanish jams, playlist score 4.35277
-playlist name: Spanish Music, playlist score 4.35277
-playlist name: Spanish music, playlist score 4.35277
-playlist name: Spanish mix, playlist score 4.35277
-playlist name: Spanish Music, playlist score 4.35277
-playlist name: spanish rock, playlist score 4.35277
-playlist name: car playlist, playlist score 3.77034
-playlist name: a playlist, playlist score 3.77034
-playlist name: Sophie's Playlist, playlist score 3.77034
-playlist name: Party Playlist, playlist score 3.77034
-playlist name: lit playlist, playlist score 3.77034
-playlist name: Workout Playlist, playlist score 3.77034
-playlist name: work playlist, playlist score 3.77034
-playlist name: party playlist, playlist score 3.77034
-playlist name: moms playlist, playlist score 3.77034
-playlist name: Wedding Playlist, playlist score 3.77034
-playlist name: Country playlist, playlist score 3.77034
-playlist name: sad playlist, playlist score 3.77034
-playlist name: Sleep Playlist, playlist score 3.77034
-playlist name: Main Playlist, playlist score 3.77034
-playlist name: Work playlist, playlist score 3.77034
-playlist name: Car Playlist, playlist score 3.77034
-playlist name: FIRE PLAYLIST, playlist score 3.77034
-playlist name: Bus playlist, playlist score 3.59627
-playlist name: Summer Playlist, playlist score 3.59627
-playlist name: issa playlist, playlist score 3.59627
-playlist name: car playlist, playlist score 3.59627
-playlist name: wedding playlist, playlist score 3.59627
-playlist name: Kids Playlist, playlist score 3.59627
-playlist name: Christian Playlist, playlist score 3.59627
-playlist name: SEX PLAYLIST, playlist score 3.59627
-playlist name: Autumn Playlist, playlist score 3.59627
-playlist name: MAIN PLAYLIST, playlist score 3.59627
-playlist name: Dinner Playlist, playlist score 3.59627
-playlist name: The Playlist, playlist score 3.59627
-playlist name: Dad's playlist, playlist score 3.59627
-playlist name: Chill Playlist, playlist score 3.59627
-playlist name: The Playlist, playlist score 3.59627
-playlist name: our playlist, playlist score 3.59627
-playlist name: League Playlist, playlist score 3.59627
-playlist name: Pop Playlist, playlist score 3.59627
-playlist name: disney playlist., playlist score 3.59627
-playlist name: playlist one, playlist score 3.59627
-playlist name: mom's playlist, playlist score 3.59627
-playlist name: Party Playlist, playlist score 3.59627
-playlist name: September Playlist, playlist score 3.59627
-playlist name: Shower Playlist, playlist score 3.59627
-playlist name: party playlist, playlist score 3.55111
-playlist name: Mom's playlist, playlist score 3.55111
-playlist name: Summer playlist, playlist score 3.55111
+playlist name: spanish playlist, playlist score 8.48204
+playlist name: Spanish playlist, playlist score 8.04365
+playlist name: spanish, playlist score 6.80645
+playlist name: spanish, playlist score 6.80645
+playlist name: spanish, playlist score 6.80645
+playlist name: spanish, playlist score 6.47477
+playlist name: spanish, playlist score 6.47477
+playlist name: spanish, playlist score 6.47477
+playlist name: spanish..:), playlist score 6.47477
+playlist name: Spanish, playlist score 6.47477
+playlist name: Spanish, playlist score 6.46807
+playlist name: Spanish, playlist score 6.46807
+playlist name: spanish, playlist score 6.46807
+playlist name: Spanish, playlist score 6.46807
+playlist name: Spanish, playlist score 6.05044
+playlist name: Spanish, playlist score 6.05044
+playlist name: Spanish, playlist score 6.05044
+playlist name: Spanish, playlist score 6.05044
+playlist name: spanish, playlist score 6.05044
+playlist name: spanish, playlist score 6.05044
+playlist name: spanish, playlist score 5.92286
+playlist name: Spanish, playlist score 5.92286
+playlist name: playlist, playlist score 5.17956
+playlist name: Playlist, playlist score 5.17956
+playlist name: Playlist, playlist score 5.17956
+playlist name: Spanish Guitar, playlist score 5.12456
+playlist name: Spanish songs, playlist score 5.12456
+playlist name: Spanish Rock, playlist score 4.88586
+playlist name: spanish jams, playlist score 4.88351
+playlist name: Spanish Music, playlist score 4.88351
+playlist name: Spanish Pop, playlist score 4.88351
+playlist name: Playlist, playlist score 4.82748
+playlist name: playlist, playlist score 4.82748
+playlist name: Playlist, playlist score 4.82748
+playlist name: Playlist, playlist score 4.76567
+playlist name: PLAYLIST, playlist score 4.76567
+playlist name: playlist, playlist score 4.76567
+playlist name: playlist, playlist score 4.76567
+playlist name: Playlist, playlist score 4.72925
+playlist name: playlist, playlist score 4.72925
+playlist name: Playlist, playlist score 4.72925
+playlist name: spanish jams, playlist score 4.56712
+playlist name: Spanish jams, playlist score 4.56712
+playlist name: SPANISH HITS!!!!, playlist score 4.56712
+playlist name: spanish rock, playlist score 4.56712
+playlist name: Spanish Music, playlist score 4.47248
+playlist name: spanish jams, playlist score 4.47248
+playlist name: SPANISH ROCK, playlist score 4.47248
+playlist name: Spanish music, playlist score 4.47248
+playlist name: Spanish music, playlist score 4.47248
+playlist name: Spanish mix, playlist score 4.47248
+playlist name: Spanish Music, playlist score 4.47248
+playlist name: Spanish Songs, playlist score 4.47248
+playlist name: spanish rock, playlist score 4.47248
+playlist name: Playlist, playlist score 4.42951
+playlist name: Playlist, playlist score 4.42951
+playlist name: playlist, playlist score 4.42951
+playlist name: Playlist, playlist score 4.42951
+playlist name: playlist, playlist score 4.42951
+playlist name: Playlist, playlist score 4.42951
+playlist name: PARTY PLAYLIST, playlist score 3.90974
+playlist name: Autumn Playlist, playlist score 3.90974
+playlist name: HAPPY PLAYLIST, playlist score 3.90974
+playlist name: Workout Playlist, playlist score 3.90974
+playlist name: Dinner Playlist, playlist score 3.90974
+playlist name: Christian Playlist, playlist score 3.90974
+playlist name: The Playlist, playlist score 3.90974
+playlist name: our playlist, playlist score 3.90974
+playlist name: squad playlist, playlist score 3.90974
+playlist name: Wedding Playlist, playlist score 3.90974
+playlist name: Gaming Playlist, playlist score 3.90974
+playlist name: everyday playlist, playlist score 3.90974
+playlist name: Playlist #2, playlist score 3.90974
+playlist name: sad playlist, playlist score 3.90974
+playlist name: playlist one, playlist score 3.90974
+playlist name: bus playlist, playlist score 3.90974
+playlist name: Shower Playlist, playlist score 3.90974
+playlist name: Main Playlist, playlist score 3.64484
+playlist name: issa playlist, playlist score 3.64484
+playlist name: Awesome Playlist, playlist score 3.64484
+playlist name: Mom's playlist, playlist score 3.64484
+playlist name: SEX PLAYLIST, playlist score 3.64484
+playlist name: a playlist, playlist score 3.64484
+playlist name: workout playlist, playlist score 3.64484
+playlist name: Party Playlist, playlist score 3.64484
+playlist name: Dads playlist, playlist score 3.64484
+playlist name: Workout Playlist, playlist score 3.64484
+playlist name: Running playlist, playlist score 3.64484
+playlist name: School playlist, playlist score 3.64484
+playlist name: Chill Playlist, playlist score 3.64484
+playlist name: good playlist, playlist score 3.64484
+playlist name: Daily playlist, playlist score 3.64484
+playlist name: party playlist, playlist score 3.64484
+playlist name: Friday Playlist, playlist score 3.64484
+playlist name: sex playlist, playlist score 3.64484
+playlist name: issa playlist, playlist score 3.64484
+playlist name: Pop Playlist, playlist score 3.64484
+playlist name: Car Playlist, playlist score 3.64484
+playlist name: Halloween Playlist, playlist score 3.64484
+playlist name: Gaming Playlist, playlist score 3.64484
+
+ songs: 
+0 Maluma Felices los 4
+1 Nicky Jam Hasta el Amanecer
+2 J Balvin Ginza
+3 Nicky Jam El Perdón
+4 Juanes La Camisa Negra
+5 Luis Fonsi Despacito - Remix
+6 Gente De Zona La Gozadera
+7 J Balvin Ay Vamos
+8 Shakira Chantaje
+9 IAmChino Ay Mi Dios
+10 Juanes A Dios Le Pido
+11 Imagine Dragons Believer
+12 Maná Mariposa traicionera
+13 Don Omar Danza Kuduro
+14 Wisin Escápate Conmigo
+15 Enrique Iglesias Bailando - Spanish Version
+16 Ozuna Tú Foto
+17 Elvis Crespo Suavemente
+18 Beyoncé 7/11
+19 Bruno Mars That's What I Like
+20 CNCO Hey DJ
+21 Drake Jumpman
+22 J Balvin Mi Gente
+23 Sebastian Yatra Traicionera
+24 Danny Ocean Me Rehúso
+25 Enrique Iglesias Cuando Me Enamoro
+26 The Chainsmokers Closer
+27 Maluma Sin Contrato
+28 Jeremih Don't Tell 'Em
+29 Prince Royce Stand by Me
+30 Selena Fotos Y Recuerdos
+31 Shakira La Tortura
+32 Carlos Vives La Bicicleta
+33 Celia Cruz La Vida Es Un Carnaval
+34 Mike Posner I Took A Pill In Ibiza - Seeb Remix
+35 Los Enanitos Verdes La Muralla Verde
+36 Selena No Me Queda Más
+37 CNCO Reggaetón Lento (Bailemos)
+38 Jessie J Bang Bang
+39 Marc Anthony Vivir Mi Vida
+40 Nicky Jam El Amante
+41 Enrique Iglesias SUBEME LA RADIO REMIX
+42 Shakira Hips Don't Lie
+43 Luis Fonsi Despacito (Featuring Daddy Yankee)
+44 Daddy Yankee La Rompe Corazones
+45 Adele Hello
+46 Chino & Nacho Andas En Mi Cabeza
+47 Anuel Aa Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]
+48 Ozuna Dile Que Tu Me Quieres
+49 J Balvin Bonita
+50 Bruno Mars 24K Magic
+51 Prince Royce Darte un Beso
+52 J Balvin Safari
+53 Enrique Iglesias DUELE EL CORAZON
+54 Ricky Martin Vente Pa' Ca
+55 George Ezra Budapest
+56 Childish Gambino V. 3005
+57 Ricky Martin La Mordidita
+58 Frank Ocean Super Rich Kids
+59 Calvin Harris Blame
+60 Sin Bandera Kilómetros
+61 Evanescence Bring Me To Life
+62 Carlos Vives Robarte un Beso
+63 Maluma Cuatro Babys
+64 Sean Paul Temperature
+65 Maná En El Muelle De San Blas
+66 Sheppard Geronimo
+67 Queen Bohemian Rhapsody - Remastered 2011
+68 Maluma El Perdedor
+69 Selena Amor Prohibido
+70 Calle 13 Atrévete-Te-Te
+71 Chris Jeday Ahora Dice
+72 Zion & Lennox Otra Vez (feat. J Balvin)
+73 J Balvin 6 AM
+74 Maroon 5 Maps
+75 Rae Sremmurd This Could Be Us
+76 Lil Uzi Vert Erase Your Social
+77 Clean Bandit Rather Be (feat. Jess Glynne)
+78 Selena Como La Flor
+79 Jason Derulo Trumpets
+80 Kendrick Lamar Swimming Pools (Drank)
+81 J. Cole Power Trip
+82 Melanie Martinez Soap
+83 Waka Flocka Flame No Hands (feat. Roscoe Dash and Wale) - Explicit Album Version
+84 Ariel Camacho y Los Plebes Del Rancho Hablemos
+85 Nelly Hot In Herre
+86 Julieta Venegas Andar Conmigo
+87 Maite Perroni Loca (feat. Cali Y El Dandee)
+88 Nelly Ride Wit Me
+89 Nick Jonas Jealous - Remix
+90 Chyno Miranda Quédate Conmigo
+91 Zara Larsson Ain't My Fault
+92 One Direction Kiss You
+93 Calvin Harris This Is What You Came For
+94 Wisin & Yandel Estoy Enamorado
+95 Bruno Mars When I Was Your Man
+96 Jack Johnson Banana Pancakes
+97 Flo Rida Low (feat T-Pain) - Feat T-Pain Album Version
+98 Phillip Phillips Home

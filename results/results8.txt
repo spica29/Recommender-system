@@ -1,100 +1,173 @@
-playlist name: EDM, playlist score 278.4202
-playlist name: Electro, playlist score 267.92584
-playlist name: Maui, playlist score 250.47093
-playlist name: EDM, playlist score 247.8619
-playlist name: Electronic, playlist score 246.82361
-playlist name: edm, playlist score 238.89362
-playlist name: Drive, playlist score 234.92809
-playlist name: EDM Favorites, playlist score 229.78946
-playlist name: Gym, playlist score 228.26907
-playlist name: mine, playlist score 227.32927
-playlist name: Yacht Week, playlist score 227.30737
-playlist name: RAGE, playlist score 224.35782
-playlist name: Rage, playlist score 222.23726
-playlist name: pew pew, playlist score 219.73735
-playlist name: electronic, playlist score 218.85057
-playlist name: Partay, playlist score 216.92664
-playlist name: DANCE, playlist score 215.08644
-playlist name: Turn up, playlist score 214.79794
-playlist name: house, playlist score 214.69882
-playlist name: Dance, playlist score 214.21696
-playlist name: Electronica, playlist score 211.64111
-playlist name: EDM, playlist score 211.2434
-playlist name: 4AM, playlist score 203.01093
-playlist name: Dance, playlist score 202.74434
-playlist name: Good Vibes, playlist score 198.2383
-playlist name: Mmmmmm, playlist score 194.84958
-playlist name: EDM, playlist score 193.01418
-playlist name: 2016, playlist score 189.7024
-playlist name: EDM, playlist score 189.26721
-playlist name: Summer, playlist score 185.67557
-playlist name: dancedancedance, playlist score 185.62733
-playlist name: driving, playlist score 184.01657
-playlist name: EDM, playlist score 183.89726
-playlist name: I Took A Pill In Ibiza - Seeb Remix, playlist score 183.34259
-playlist name: NYE, playlist score 182.7826
-playlist name: GYM!!!, playlist score 181.8788
-playlist name: Electro, playlist score 179.0451
-playlist name: EDM, playlist score 178.9311
-playlist name: Gym, playlist score 177.70773
-playlist name: Summer, playlist score 177.60559
-playlist name: edm, playlist score 177.5001
-playlist name: Coachella 2015, playlist score 177.23999
-playlist name: EDM, playlist score 176.27481
-playlist name: Party, playlist score 176.0927
-playlist name: cancun, playlist score 175.96117
-playlist name: Hockey, playlist score 175.77843
-playlist name: DOPE, playlist score 173.21284
-playlist name: Rage., playlist score 172.08289
-playlist name: edm, playlist score 171.19904
-playlist name: Video, playlist score 171.1776
-playlist name: Addicted, playlist score 167.45634
-playlist name: CHILL, playlist score 167.18477
-playlist name: Weekly, playlist score 167.12218
-playlist name: Electronic, playlist score 166.64896
-playlist name: edm !!!, playlist score 166.47504
-playlist name: Chill, playlist score 166.4549
-playlist name: workout, playlist score 165.4012
-playlist name: Chill out, playlist score 164.29738
-playlist name: HITS, playlist score 163.41005
-playlist name: Beats, playlist score 162.03352
-playlist name: party, playlist score 162.03253
-playlist name: WORKOUT, playlist score 160.41156
-playlist name: EDM, playlist score 159.81567
-playlist name: EDM, playlist score 157.76495
-playlist name: EDM, playlist score 156.36722
-playlist name: edm, playlist score 154.1752
-playlist name: Mix, playlist score 154.029
-playlist name: Remixes, playlist score 153.33542
-playlist name: Chill vibez, playlist score 152.23746
-playlist name: Deeper, playlist score 151.6086
-playlist name: chill, playlist score 151.57114
-playlist name: EDM, playlist score 150.78636
-playlist name: Good Vibes, playlist score 149.96375
-playlist name: car jams, playlist score 149.90819
-playlist name: Fire, playlist score 149.55223
-playlist name: good vibes, playlist score 148.37428
-playlist name: Remixes, playlist score 148.08572
-playlist name: fresh, playlist score 147.81363
-playlist name: workout, playlist score 147.65314
-playlist name: Workout Mix, playlist score 146.6779
-playlist name: Be Mine, playlist score 145.9168
-playlist name: Chill House, playlist score 145.76126
-playlist name: Always, playlist score 145.37341
-playlist name: Like^^, playlist score 144.87148
-playlist name: Sing-a-longs, playlist score 143.99109
-playlist name: FP, playlist score 143.65065
-playlist name: Skating..., playlist score 143.48686
-playlist name: Nice, playlist score 143.47363
-playlist name: NYE 2016, playlist score 143.1688
-playlist name: lets get it, playlist score 141.96382
-playlist name: beats, playlist score 141.8851
-playlist name: Chill House, playlist score 141.69714
-playlist name: *^*^*^* ELECTRO *^*^*^, playlist score 141.5107
-playlist name: Summer, playlist score 141.29277
-playlist name: Chill Bro, playlist score 140.80634
-playlist name: Easy Listening, playlist score 140.53276
-playlist name: villa, playlist score 140.30324
-playlist name: dance, playlist score 140.09189
-playlist name: Love Me, playlist score 139.76726
-playlist name: April, playlist score 139.29904
+playlist name: Yacht Week, playlist score 90.82725
+playlist name: EDM, playlist score 89.8989
+playlist name: EDM Favorites, playlist score 84.26412
+playlist name: Rage, playlist score 73.87111
+playlist name: EDM, playlist score 71.16735
+playlist name: Mmmmmm, playlist score 69.68082
+playlist name: stream, playlist score 69.40691
+playlist name: 2016, playlist score 67.19952
+playlist name: 4AM, playlist score 66.35088
+playlist name: Drive, playlist score 66.06348
+playlist name: Half Marathon, playlist score 65.67245
+playlist name: Turn up, playlist score 65.58372
+playlist name: Electronica, playlist score 64.20247
+playlist name: EDM, playlist score 63.06253
+playlist name: house, playlist score 62.14843
+playlist name: EDM, playlist score 61.7403
+playlist name: Partay, playlist score 61.4047
+playlist name: edm, playlist score 60.98888
+playlist name: Gym, playlist score 60.59724
+playlist name: Electro, playlist score 59.52363
+playlist name: Summer, playlist score 59.39567
+playlist name: I Took A Pill In Ibiza - Seeb Remix, playlist score 58.55913
+playlist name: Maui, playlist score 58.49659
+playlist name: Dance, playlist score 55.55284
+playlist name: Electronic, playlist score 54.76641
+playlist name: electronic, playlist score 54.06207
+playlist name: Electronic, playlist score 53.96402
+playlist name: Dance, playlist score 53.39325
+playlist name: RAGE, playlist score 53.26106
+playlist name: You got this., playlist score 51.48921
+playlist name: Current, playlist score 50.87032
+playlist name: pew pew, playlist score 49.52101
+playlist name: Tomorrowland, playlist score 49.39671
+playlist name: DANCE, playlist score 48.50042
+playlist name: EDM, playlist score 47.61745
+playlist name: sleep, playlist score 47.47519
+playlist name: kick, playlist score 47.42255
+playlist name: Gaming, playlist score 47.29969
+playlist name: EDM, playlist score 46.65752
+playlist name: Winter 2016, playlist score 46.50267
+playlist name: EDM, playlist score 46.27599
+playlist name: mine, playlist score 46.23622
+playlist name: EDM, playlist score 45.45656
+playlist name: Gym, playlist score 45.13503
+playlist name: Electro, playlist score 44.71326
+playlist name: Party, playlist score 44.46518
+playlist name: Time, playlist score 44.25312
+playlist name: WORKOUT, playlist score 43.96523
+playlist name: driving, playlist score 43.74055
+playlist name: RAGE, playlist score 43.60247
+playlist name: Addicted, playlist score 43.50819
+playlist name: workout, playlist score 43.03309
+playlist name: NYE, playlist score 42.87479
+playlist name: Gym, playlist score 41.47558
+playlist name: My EDM, playlist score 41.29017
+playlist name: Party Tracks, playlist score 41.20775
+playlist name: Good shiz, playlist score 41.07607
+playlist name: Chill Bro, playlist score 40.98922
+playlist name: Workout Playlist, playlist score 40.80225
+playlist name: EDM, playlist score 40.8009
+playlist name: GYM!!!, playlist score 40.74373
+playlist name: Runaway, playlist score 40.67029
+playlist name: Hockey, playlist score 40.60582
+playlist name: Trance Classics, playlist score 40.59138
+playlist name: workout, playlist score 40.02779
+playlist name: Workout, playlist score 39.95164
+playlist name: Chill, playlist score 39.91363
+playlist name: fresh, playlist score 39.53648
+playlist name: Fire, playlist score 38.48584
+playlist name: Video, playlist score 38.19081
+playlist name: Beats, playlist score 38.15535
+playlist name: Summer 2014, playlist score 37.97508
+playlist name: new stuff, playlist score 37.81127
+playlist name: Good Vibes, playlist score 37.45227
+playlist name: EM, playlist score 37.26024
+playlist name: Gym Songs, playlist score 37.13196
+playlist name: *^*^*^* ELECTRO *^*^*^, playlist score 36.96978
+playlist name: RunAway..!, playlist score 36.91552
+playlist name: Kaskade, playlist score 36.91107
+playlist name: Playlist, playlist score 36.88892
+playlist name: SILK, playlist score 36.83277
+playlist name: deadmau5, playlist score 36.74694
+playlist name: Good Vibes, playlist score 36.62904
+playlist name: Nice, playlist score 36.35751
+playlist name: EDM, playlist score 35.98181
+playlist name: dancedancedance, playlist score 35.78974
+playlist name: workout, playlist score 35.74058
+playlist name: DOPE, playlist score 35.69538
+playlist name: Beat drops, playlist score 35.69468
+playlist name: #boostyourrun, playlist score 35.65885
+playlist name: NOW, playlist score 35.6221
+playlist name: Party, playlist score 35.43606
+playlist name: Stuff, playlist score 35.31909
+playlist name: hey, playlist score 35.28896
+playlist name: Workout, playlist score 35.24276
+playlist name: gym, playlist score 35.20934
+playlist name: EDM, playlist score 35.09449
+playlist name: Deeper, playlist score 34.68009
+playlist name: aa, playlist score 34.52964
+playlist name: party, playlist score 34.33983
+
+ songs: 
+0 Sebastian Ingrosso Calling (Lose My Mind) - Radio Edit
+1 Major Lazer Lean On (feat. MØ & DJ Snake)
+2 Tiësto Red Lights
+3 Martin Garrix Animals - Extended
+4 OneRepublic If I Lose Myself - Alesso vs OneRepublic
+5 Galantis Runaway (U & I)
+6 Swedish House Mafia Greyhound
+7 Tiësto Wasted
+8 Avicii The Nights
+9 deadmau5 Ghosts 'n' Stuff
+10 Avicii Wake Me Up - Radio Edit
+11 Calvin Harris Summer
+12 Tiësto Secrets - Radio Edit
+13 DJ Snake You Know You Like It
+14 DVBBS Tsunami
+15 Zedd Beautiful Now
+16 The Chainsmokers Let You Go - Radio Edit
+17 Avicii Waiting For Love
+18 Cash Cash Take Me Home (feat. Bebe Rexha)
+19 Calvin Harris How Deep Is Your Love
+20 Sebastian Ingrosso Reload - Vocal Version / Radio Edit
+21 Deorro Five Hours
+22 Calvin Harris Sweet Nothing
+23 Alesso Sweet Escape
+24 Skrillex Bangarang (feat. Sirah)
+25 Cash Cash Surrender
+26 The Chainsmokers Don't Let Me Down
+27 Swedish House Mafia Antidote
+28 Mike Posner I Took A Pill In Ibiza - Seeb Remix
+29 Calvin Harris I Need Your Love
+30 Adventure Club Crash 2.0 (Adventure Club vs. DallasK)
+31 The Chainsmokers Roses
+32 Kid Cudi Pursuit Of Happiness - Extended Steve Aoki Remix (Explicit)
+33 Zedd Find You
+34 Hardwell Apollo - Radio Edit
+35 DJ Snake Middle
+36 Dash Berlin Here Tonight - Album Mix
+37 Martin Solveig Intoxicated - New Radio Mix
+38 Calvin Harris Outside
+39 Tritonal Untouchable
+40 Zedd I Want You To Know
+41 Bingo Players Get Up (Rattle) - Radio Edit
+42 Steve Aoki Delirious (Boneless)
+43 Galantis Peanut Butter Jelly
+44 Sander van Doorn Gold Skies - Original Mix
+45 Flux Pavilion I Can't Stop
+46 Jack Ü Where Are Ü Now (with Justin Bieber)
+47 Afrojack Ten Feet Tall
+48 Calvin Harris Blame
+49 3LAU How You Love Me - Radio Edit
+50 Dada Life Kick Out The Epic Motherf**ker
+51 Tiësto The Right Song
+52 Diplo Revolution - feat. Faustix & Imanos and Kai
+53 Robin Schulz Headlights (feat. Ilsey)
+54 Dimitri Vegas & Like Mike Tremor - Sensation 2014 Anthem / Original Mix
+55 Calvin Harris Drinking from the Bottle
+56 Smallpools Dreaming - The Chainsmokers Remix
+57 Marshmello Summer
+58 Disclosure You & Me - Flume Remix
+59 Diplo Be Right There
+60 Dillon Francis Get Low
+61 Porter Robinson Language - Extended Mix
+62 Example We'll Be Coming Back - Calvin Harris & Example
+63 Nadia Ali Pressure - Alesso Remix
+64 Avicii The Days
+65 CAZZETTE Beam Me Up - Radio Edit
+66 Rihanna We Found Love
+67 Mako Smoke Filled Room
+68 Porter Robinson Sad Machine
+69 ODESZA All We Need feat. Shy Girls - Dzeko & Torres Remix Radio Edit
+70 Martin Garrix Forbidden Voices - Original Mix

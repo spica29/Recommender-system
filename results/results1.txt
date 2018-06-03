@@ -1,100 +1,196 @@
-playlist name: old music, playlist score 83.73593
-playlist name: Throwbacks, playlist score 82.67313
-playlist name: 90's hits, playlist score 80.92773
-playlist name: throwback, playlist score 78.6383
-playlist name: 90s Hits, playlist score 74.94381
-playlist name: 90's & 00's, playlist score 73.52138
-playlist name: Nostalgia, playlist score 72.49202
-playlist name: 90s baby, playlist score 71.87641
-playlist name: #ThrowbackThursday, playlist score 69.44968
-playlist name: Pop, playlist score 68.25426
-playlist name: Rachel, playlist score 64.22468
-playlist name: throwback, playlist score 63.82928
-playlist name: Nineties, playlist score 62.96127
-playlist name: Throwback, playlist score 62.04871
-playlist name: Throwback, playlist score 61.29158
-playlist name: Throwback, playlist score 58.58277
-playlist name: Throwback Hits, playlist score 56.54266
-playlist name: old but gold, playlist score 55.30611
-playlist name: Dance Pop, playlist score 54.90346
-playlist name: Rosa, playlist score 54.70267
-playlist name: 80's and 90's, playlist score 53.73737
-playlist name: 2000s, playlist score 52.22541
-playlist name: oldies but goodies, playlist score 52.05792
-playlist name: POPERAS, playlist score 51.29968
-playlist name: Wedding Morning, playlist score 50.92936
-playlist name: 90s, playlist score 50.83311
-playlist name: TBT, playlist score 50.69301
-playlist name: 90's Kids, playlist score 50.29733
-playlist name: Trip, playlist score 49.6716
-playlist name: Bad Taste, playlist score 48.42974
-playlist name: Old, playlist score 48.21508
-playlist name: Throwbacks :), playlist score 47.31449
-playlist name: Throwbacks, playlist score 46.95283
-playlist name: Feel Good, playlist score 46.73941
-playlist name: throw backs, playlist score 45.52884
-playlist name: #throwbackthursday, playlist score 45.2522
-playlist name: Classics, playlist score 44.59339
-playlist name: Throwback Music, playlist score 44.58648
-playlist name: Road Trip, playlist score 44.42801
-playlist name: Kitchen Dancing, playlist score 44.06882
-playlist name: Boybands, playlist score 42.71023
-playlist name: 00s, playlist score 42.68953
-playlist name: Michelle, playlist score 42.61543
-playlist name: Wedding Reception, playlist score 42.56107
-playlist name: 90s Party, playlist score 42.55953
-playlist name: tbt, playlist score 42.52245
-playlist name: Roadtrippin, playlist score 42.31558
-playlist name: Work Out, playlist score 42.23176
-playlist name: The Journey, playlist score 41.79118
-playlist name: Cleaning PLaylist, playlist score 41.27212
-playlist name: Guilty Pleasure, playlist score 41.08191
-playlist name: Party, playlist score 40.98699
-playlist name: old songs, playlist score 40.94296
-playlist name: My Musics, playlist score 40.18746
-playlist name: tbt, playlist score 39.49604
-playlist name: All time favorite, playlist score 39.46538
-playlist name: LDN, playlist score 39.43403
-playlist name: oldies, playlist score 39.41319
-playlist name: throwbacks, playlist score 39.17538
-playlist name: Throwbacks, playlist score 38.8894
-playlist name: Early 2000s, playlist score 38.59193
-playlist name: tbt., playlist score 38.58268
-playlist name: throwbacks, playlist score 38.52335
-playlist name: 80s and 90s, playlist score 38.30863
-playlist name: throwback, playlist score 38.06081
-playlist name: car karaoke, playlist score 37.84022
-playlist name: early 2000's, playlist score 37.47273
-playlist name: RECEPTION, playlist score 37.3401
-playlist name: throwback, playlist score 37.16937
-playlist name: NYE 2017, playlist score 37.12576
-playlist name: Throwbacks, playlist score 37.08131
-playlist name: throwback thursday, playlist score 36.92823
-playlist name: throwbacks, playlist score 36.7408
-playlist name: old people, playlist score 36.61816
-playlist name: BIRTHDAY PARTY, playlist score 36.61093
-playlist name: 90's, playlist score 36.49923
-playlist name: 👑👑👑, playlist score 36.11627
-playlist name: workout, playlist score 35.78679
-playlist name: Party List, playlist score 35.699
-playlist name: now, playlist score 35.64274
-playlist name: oldies, playlist score 35.56074
-playlist name: #tbt, playlist score 35.51972
-playlist name: Running, playlist score 35.14137
-playlist name: Slow Music, playlist score 35.08934
-playlist name: Camp, playlist score 34.8543
-playlist name: mainstream, playlist score 34.74595
-playlist name: summer, playlist score 34.7108
-playlist name: Road Trip, playlist score 34.50731
-playlist name: NYE, playlist score 34.42269
-playlist name: Christmas, playlist score 34.32365
-playlist name: Party Mix, playlist score 34.21336
-playlist name: NOLA, playlist score 34.16445
-playlist name: throwback, playlist score 33.95049
-playlist name: Spring Break 2015, playlist score 33.74423
-playlist name: 90s, playlist score 33.0657
-playlist name: ♡♡♡, playlist score 32.98516
-playlist name: pr, playlist score 32.95224
-playlist name: throwback, playlist score 32.87342
-playlist name: singalongs, playlist score 32.82547
-playlist name: Christmas Party, playlist score 32.80207
+playlist name: old music, playlist score 83.52298
+playlist name: Throwbacks, playlist score 79.59972
+playlist name: throwback, playlist score 77.21793
+playlist name: 90's hits, playlist score 74.64903
+playlist name: 90's & 00's, playlist score 73.37192
+playlist name: 90s Hits, playlist score 71.96351
+playlist name: 90s baby, playlist score 71.33692
+playlist name: Nostalgia, playlist score 69.81566
+playlist name: #ThrowbackThursday, playlist score 66.90895
+playlist name: Pop, playlist score 65.54528
+playlist name: throwback, playlist score 61.99854
+playlist name: Throwback, playlist score 59.57207
+playlist name: Throwback, playlist score 58.46132
+playlist name: Nineties, playlist score 58.11168
+playlist name: Throwback, playlist score 57.04762
+playlist name: Rachel, playlist score 55.13191
+playlist name: old but gold, playlist score 54.13002
+playlist name: Throwback Hits, playlist score 53.92485
+playlist name: Rosa, playlist score 53.3738
+playlist name: POPERAS, playlist score 51.46942
+playlist name: oldies but goodies, playlist score 51.30275
+playlist name: Dance Pop, playlist score 51.06061
+playlist name: 2000s, playlist score 50.6003
+playlist name: 80's and 90's, playlist score 50.08731
+playlist name: TBT, playlist score 49.29401
+playlist name: 90's Kids, playlist score 48.99229
+playlist name: 90s, playlist score 48.68196
+playlist name: Wedding Morning, playlist score 48.44271
+playlist name: Bad Taste, playlist score 48.17836
+playlist name: Old, playlist score 47.92322
+playlist name: Trip, playlist score 47.17256
+playlist name: Feel Good, playlist score 45.76572
+playlist name: throw backs, playlist score 44.76384
+playlist name: Throwbacks :), playlist score 44.52599
+playlist name: #throwbackthursday, playlist score 44.45864
+playlist name: Throwbacks, playlist score 44.33933
+playlist name: Throwback Music, playlist score 43.16384
+playlist name: Kitchen Dancing, playlist score 42.74097
+playlist name: Classics, playlist score 42.45775
+playlist name: Road Trip, playlist score 42.35136
+playlist name: Michelle, playlist score 42.08306
+playlist name: Guilty Pleasure, playlist score 41.08418
+playlist name: 00s, playlist score 40.61066
+playlist name: tbt, playlist score 40.23098
+playlist name: 90s Party, playlist score 39.94644
+playlist name: Boybands, playlist score 39.64722
+playlist name: Wedding Reception, playlist score 39.51429
+playlist name: old songs, playlist score 39.35508
+playlist name: Cleaning PLaylist, playlist score 39.09643
+playlist name: The Journey, playlist score 38.93478
+playlist name: Party, playlist score 38.66562
+playlist name: tbt, playlist score 38.51426
+playlist name: 80s and 90s, playlist score 38.46368
+playlist name: Work Out, playlist score 38.40608
+playlist name: Roadtrippin, playlist score 38.32367
+playlist name: All time favorite, playlist score 38.17351
+playlist name: Throwbacks, playlist score 37.74382
+playlist name: throwbacks, playlist score 37.59009
+playlist name: LDN, playlist score 37.36721
+playlist name: tbt., playlist score 37.21574
+playlist name: oldies, playlist score 37.17479
+playlist name: My Musics, playlist score 36.61023
+playlist name: throwbacks, playlist score 36.5478
+playlist name: RECEPTION, playlist score 36.51963
+playlist name: throwback, playlist score 36.40946
+playlist name: car karaoke, playlist score 36.35164
+playlist name: throwback, playlist score 35.95933
+playlist name: throwback thursday, playlist score 35.59227
+playlist name: Early 2000s, playlist score 35.53867
+playlist name: early 2000's, playlist score 35.18153
+playlist name: #tbt, playlist score 35.14154
+playlist name: Running, playlist score 34.62384
+playlist name: 90's, playlist score 34.54136
+playlist name: NYE 2017, playlist score 34.515
+playlist name: workout, playlist score 34.50682
+playlist name: BIRTHDAY PARTY, playlist score 34.46069
+playlist name: old people, playlist score 34.3344
+playlist name: now, playlist score 34.31298
+playlist name: Throwbacks, playlist score 34.29231
+playlist name: throwbacks, playlist score 34.1052
+playlist name: Party List, playlist score 33.94853
+playlist name: 👑👑👑, playlist score 33.89607
+playlist name: oldies, playlist score 33.87548
+playlist name: Road Trip, playlist score 33.80361
+playlist name: Camp, playlist score 33.45754
+playlist name: mainstream, playlist score 33.44301
+playlist name: Party Mix, playlist score 33.14272
+playlist name: Slow Music, playlist score 32.75507
+playlist name: Christmas, playlist score 32.71324
+playlist name: summer, playlist score 32.55548
+playlist name: NOLA, playlist score 32.42131
+playlist name: ♡♡♡, playlist score 32.38755
+playlist name: throwback, playlist score 32.26598
+playlist name: Spring Break 2015, playlist score 32.24451
+playlist name: pr, playlist score 32.01161
+playlist name: Christmas Party, playlist score 31.95801
+playlist name: NYE, playlist score 31.69553
+playlist name: 90s, playlist score 31.57838
+playlist name: singalongs, playlist score 31.48412
+playlist name: old school, playlist score 30.98733
+
+ songs: 
+0 *NSYNC Bye Bye Bye
+1 Britney Spears Oops!...I Did It Again
+2 TLC No Scrubs
+3 Destiny's Child Say My Name
+4 Britney Spears Toxic
+5 Gwen Stefani Hollaback Girl
+6 Shakira Hips Don't Lie
+7 Beyoncé Crazy In Love
+8 Shaggy It Wasn't Me
+9 Backstreet Boys Everybody (Backstreet's Back) - Extended Version
+10 Smash Mouth All Star
+11 Rihanna Umbrella
+12 Kelly Clarkson Since U Been Gone
+13 Usher Yeah!
+14 Nelly Furtado Promiscuous
+15 *NSYNC It's Gonna Be Me
+16 Busta Rhymes Don't Cha
+17 R. Kelly Ignition - Remix
+18 TLC Waterfalls
+19 Destiny's Child Survivor
+20 Kelis Milkshake
+21 Lou Bega Mambo No. 5 (A Little Bit of...)
+22 Justin Timberlake SexyBack
+23 Christina Aguilera What a Girl Wants
+24 Vanessa Carlton A Thousand Miles
+25 Fergie Fergalicious
+26 Rihanna Pon de Replay
+27 Sean Paul Temperature
+28 Kanye West Gold Digger
+29 Blackstreet No Diggity
+30 JoJo Too Little, Too Late - Radio Version
+31 Natasha Bedingfield Unwritten
+32 The Pussycat Dolls When I Grow Up
+33 Will Smith Gettin' Jiggy Wit It
+34 Jesse McCartney Beautiful Soul
+35 OutKast Hey Ya! - Radio Mix / Club Mix
+36 Backstreet Boys Larger Than Life
+37 Miley Cyrus Party In The U.S.A.
+38 Ciara One, Two Step
+39 Beyoncé Irreplaceable
+40 Katy Perry I Kissed a Girl
+41 Fergie Glamorous
+42 Nelly Hot In Herre
+43 Flo Rida Low (feat T-Pain) - Feat T-Pain Album Version
+44 OutKast Ms. Jackson
+45 Lady Gaga Just Dance
+46 Gwen Stefani Rich Girl
+47 Destiny's Child Jumpin', Jumpin'
+48 Avril Lavigne Girlfriend (German Version - Explicit) - German Version - Explicit
+49 blink-182 All The Small Things
+50 The Black Eyed Peas My Humps
+51 Kesha TiK ToK
+52 Ace of Base The Sign
+53 Shania Twain Man! I Feel Like A Woman!
+54 The Black Eyed Peas Where Is The Love?
+55 Britney Spears (You Drive Me) Crazy
+56 Avril Lavigne Complicated
+57 50 Cent In Da Club
+58 The Killers Mr. Brightside
+59 Nelly Ride Wit Me
+60 P!nk So What
+61 MC Hammer U Can't Touch This
+62 *NSYNC I Want You Back - Radio Edit
+63 Sean Paul Baby Boy (feat. Beyonce)
+64 Lil Jon & The East Side Boyz Get Low - Street
+65 Sir Mix-A-Lot Baby Got Back
+66 Jonas Brothers Burnin' Up
+67 Ricky Martin Livin' la Vida Loca
+68 The Cardigans Lovefool - Radio Edit
+69 Justin Timberlake Rock Your Body
+70 Sean Kingston Beautiful Girls
+71 Lady Gaga Poker Face
+72 Mariah Carey Always Be My Baby
+73 Snoop Dogg Drop It Like It's Hot
+74 Whitney Houston I Wanna Dance with Somebody (Who Loves Me)
+75 Backstreet Boys As Long as You Love Me
+76 Third Eye Blind Semi-Charmed Life
+77 Avril Lavigne Sk8er Boi
+78 Oasis Wonderwall - Remastered
+79 Rick Springfield Jessie's Girl
+80 The All-American Rejects Gives You Hell
+81 Baby Bash Suga Suga
+82 Natalie Imbruglia Torn
+83 Gwen Stefani The Sweet Escape
+84 Vanilla Ice Ice Ice Baby
+85 Chris Brown Kiss Kiss
+86 Semisonic Closing Time
+87 Natasha Bedingfield Pocketful of Sunshine
+88 Nelly Dilemma
+89 Cyndi Lauper Girls Just Want to Have Fun
+90 Mario Let Me Love You
+91 Jason Derulo Whatcha Say
+92 Justin Timberlake Cry Me a River
+93 Tal Bachman She's so High

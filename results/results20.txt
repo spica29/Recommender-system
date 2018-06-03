@@ -1,0 +1,177 @@
+playlist name: Old people music, playlist score 49.7789
+playlist name: Old people music, playlist score 49.30001
+playlist name: 70s, playlist score 48.87436
+playlist name: Oldies but goodies, playlist score 45.61526
+playlist name: A+, playlist score 45.10555
+playlist name: A+, playlist score 45.10555
+playlist name: Oldies, playlist score 44.80019
+playlist name: Oldies but goodies, playlist score 44.54201
+playlist name: Dad, playlist score 43.56059
+playlist name: 70s, playlist score 43.006
+playlist name: classics, playlist score 42.96847
+playlist name: oldies, playlist score 42.34517
+playlist name: oldies, playlist score 42.34517
+playlist name: Good Stuff, playlist score 42.31962
+playlist name: Good Stuff, playlist score 42.31962
+playlist name: Oldies, playlist score 42.24687
+playlist name: classics, playlist score 41.37115
+playlist name: word, playlist score 41.27669
+playlist name: Classic rock, playlist score 40.94697
+playlist name: word, playlist score 40.9276
+playlist name: arizona, playlist score 40.75785
+playlist name: The Classics, playlist score 40.60368
+playlist name: Classic rock, playlist score 40.47613
+playlist name: rock 2, playlist score 40.1853
+playlist name: Classic Rock, playlist score 40.16778
+playlist name: oldies, playlist score 39.92618
+playlist name: Oldies, playlist score 39.3635
+playlist name: Classic, playlist score 38.80121
+playlist name: Classic, playlist score 38.80121
+playlist name: The Classics, playlist score 38.74835
+playlist name: Elisa, playlist score 38.47248
+playlist name: Elisa, playlist score 38.47248
+playlist name: rock 2, playlist score 38.28433
+playlist name: classic rock, playlist score 37.76755
+playlist name: groovin, playlist score 37.63541
+playlist name: 70s, playlist score 37.5184
+playlist name: 70s, playlist score 37.5184
+playlist name: classic rock, playlist score 37.47111
+playlist name: Oldies, playlist score 37.41837
+playlist name: Oldies, playlist score 37.41837
+playlist name: classics, playlist score 37.39142
+playlist name: Rock Classics, playlist score 37.306
+playlist name: Classic Rock, playlist score 37.2429
+playlist name: Dad, playlist score 37.21983
+playlist name: Rock Classics, playlist score 37.09683
+playlist name: Chad, playlist score 37.00349
+playlist name: oldies, playlist score 36.98079
+playlist name: goldies, playlist score 36.63301
+playlist name: goldies, playlist score 36.63301
+playlist name: Classic Rock, playlist score 36.63195
+playlist name: beach, playlist score 36.48945
+playlist name: Classic Rock, playlist score 36.44052
+playlist name: Rock, playlist score 36.28513
+playlist name: wedding, playlist score 36.05444
+playlist name: Rock, playlist score 36.01156
+playlist name: Rock, playlist score 35.91503
+playlist name: older songs, playlist score 35.83549
+playlist name: lab, playlist score 35.81376
+playlist name: lab, playlist score 35.6464
+playlist name: Classics, playlist score 35.56348
+playlist name: oldies but goodies, playlist score 35.45397
+playlist name: oldies but goodies, playlist score 35.45397
+playlist name: Vintage, playlist score 35.42559
+playlist name: jams, playlist score 35.37567
+playlist name: Chad, playlist score 35.25243
+playlist name: old but gold, playlist score 35.24785
+playlist name: Old Soul, playlist score 35.23061
+playlist name: Old Soul, playlist score 35.13763
+playlist name: Vintage, playlist score 35.1269
+playlist name: mine, playlist score 35.08544
+playlist name: The good, playlist score 35.01504
+playlist name: The good, playlist score 34.95943
+playlist name: CLASSICS, playlist score 34.89228
+playlist name: Classics, playlist score 34.81808
+playlist name: goodies, playlist score 34.74216
+playlist name: Rock, playlist score 34.63401
+playlist name: Classic Rock, playlist score 34.4628
+playlist name: Classic Rock, playlist score 34.4628
+playlist name: beach, playlist score 34.36474
+playlist name: goodies, playlist score 34.26265
+playlist name: Dad, playlist score 34.16672
+playlist name: The Classics, playlist score 34.04212
+playlist name: dad, playlist score 33.91101
+playlist name: Wedding, playlist score 33.89522
+playlist name: The Classics, playlist score 33.80706
+playlist name: now, playlist score 33.71473
+playlist name: dad, playlist score 33.6828
+playlist name: Classic, playlist score 33.62418
+playlist name: Classic, playlist score 33.62418
+playlist name: MMHM, playlist score 33.60444
+playlist name: MMHM, playlist score 33.52197
+playlist name: mine, playlist score 33.48122
+playlist name: sunday, playlist score 33.35066
+playlist name: Time Machine, playlist score 33.18218
+playlist name: jams, playlist score 33.15082
+playlist name: Classic Rock, playlist score 33.0278
+playlist name: Classic Rock, playlist score 32.99371
+playlist name: Time Machine, playlist score 32.94212
+playlist name: grass, playlist score 32.85596
+playlist name: oldies, playlist score 32.81369
+
+ songs: 
+0 Creedence Clearwater Revival Have You Ever Seen The Rain?
+1 The Rolling Stones Beast Of Burden - Remastered
+2 Eagles Hotel California - Remastered
+3 Van Morrison Brown Eyed Girl
+4 The Rolling Stones Gimme Shelter
+5 Creedence Clearwater Revival Fortunate Son
+6 Fleetwood Mac Landslide
+7 Earth, Wind & Fire September
+8 Elton John Tiny Dancer
+9 The Rolling Stones Sympathy For The Devil
+10 The Rolling Stones Start Me Up - Remastered
+11 Eagles Take It Easy
+12 Led Zeppelin Stairway To Heaven
+13 Lynyrd Skynyrd Free Bird
+14 Don McLean American Pie
+15 Buffalo Springfield For What It's Worth
+16 Marvin Gaye Ain't No Mountain High Enough
+17 Jimi Hendrix All Along the Watchtower
+18 Eric Clapton Cocaine
+19 The Doobie Brothers Black Water
+20 The Allman Brothers Band Midnight Rider
+21 Guns N' Roses Sweet Child O' Mine
+22 Otis Redding (Sittin' On) The Dock Of The Bay
+23 Lynyrd Skynyrd Sweet Home Alabama
+24 The Who Baba O'Riley
+25 Daryl Hall & John Oates You Make My Dreams - Remastered
+26 The Rolling Stones Brown Sugar - Remastered
+27 Lynyrd Skynyrd Simple Man
+28 Tom Petty and the Heartbreakers American Girl
+29 Fleetwood Mac Rhiannon
+30 Aerosmith Sweet Emotion
+31 The Marshall Tucker Band Can't You See
+32 Stevie Wonder Superstition - Single Version
+33 Guns N' Roses Paradise City
+34 Tom Petty Free Fallin'
+35 Norman Greenbaum Spirit In The Sky
+36 The Beach Boys Wouldn't It Be Nice - 2000 - Remaster
+37 The Jackson 5 I Want You Back
+38 Stevie Wonder Signed, Sealed, Delivered (I'm Yours)
+39 John Mellencamp Jack & Diane
+40 America A Horse with No Name
+41 The Kinks Lola - Coca Cola Version
+42 Queen Under Pressure - Remastered 2011
+43 Creedence Clearwater Revival Down On The Corner
+44 The Beatles Hey Jude - Remastered 2015
+45 The Beatles Twist And Shout - Remastered 2009
+46 The Temptations My Girl
+47 The Animals House Of The Rising Sun
+48 Fleetwood Mac The Chain - Remastered
+49 Bruce Springsteen Born In The U.S.A.
+50 Stealers Wheel Stuck In The Middle With You
+51 Aerosmith Walk This Way
+52 Bachman-Turner Overdrive You Ain't Seen Nothing Yet
+53 Styx Come Sail Away
+54 Rod Stewart Maggie May
+55 Stevie Wonder For Once In My Life
+56 Creedence Clearwater Revival Up Around The Bend
+57 The Who Who Are You
+58 Simple Minds Don't You (Forget About Me)
+59 Kansas Carry on Wayward Son
+60 Lou Reed Walk On the Wild Side
+61 Blue Öyster Cult (Don't Fear) The Reaper
+62 Bruce Springsteen Born to Run
+63 The Beatles Come Together - Remastered
+64 Steely Dan Reelin' In The Years
+65 Joe Walsh Life's Been Good
+66 Led Zeppelin Ramble On
+67 Queen Another One Bites The Dust - Remastered 2011
+68 Steppenwolf Born To Be Wild
+69 Bryan Adams Summer Of '69
+70 The Rolling Stones You Can't Always Get What You Want
+71 Foreigner Juke Box Hero
+72 Steve Miller Band Fly Like An Eagle
+73 Derek & The Dominos Layla - 40th Anniversary Version / 2010 Remastered
+74 Pink Floyd Another Brick in the Wall, Pt. 2

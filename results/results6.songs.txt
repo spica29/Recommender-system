@@ -1,0 +1,201 @@
+playlist name: Country, playlist score 84.8811
+playlist name: country, playlist score 80.2953
+playlist name: Country, playlist score 79.29859
+playlist name: country, playlist score 75.18282
+playlist name: country, playlist score 74.49445
+playlist name: country, playlist score 71.79775
+playlist name: Country, playlist score 70.36126
+playlist name: country, playlist score 69.39404
+playlist name: Country, playlist score 69.31766
+playlist name: Country, playlist score 68.98496
+playlist name: Country Mix, playlist score 68.68261
+playlist name: Country Mix, playlist score 68.68261
+playlist name: country, playlist score 68.53516
+playlist name: Country, playlist score 67.68013
+playlist name: country, playlist score 67.5403
+playlist name: country, playlist score 67.16595
+playlist name: Country, playlist score 67.0443
+playlist name: Country, playlist score 66.98286
+playlist name: Country, playlist score 66.88686
+playlist name: Country Jams, playlist score 66.68936
+playlist name: country, playlist score 66.04983
+playlist name: Country, playlist score 65.73837
+playlist name: country, playlist score 65.72809
+playlist name: Country, playlist score 65.72368
+playlist name: Country, playlist score 65.67867
+playlist name: country, playlist score 65.36646
+playlist name: Country, playlist score 65.22488
+playlist name: Country, playlist score 65.16983
+playlist name: country, playlist score 64.89857
+playlist name: Country Jams, playlist score 64.60638
+playlist name: Country, playlist score 64.52798
+playlist name: Country, playlist score 64.43632
+playlist name: country, playlist score 64.26299
+playlist name: Country, playlist score 64.13116
+playlist name: country summer, playlist score 63.76966
+playlist name: Country, playlist score 63.62932
+playlist name: country, playlist score 63.38964
+playlist name: country, playlist score 63.38964
+playlist name: Country, playlist score 63.26445
+playlist name: ju, playlist score 63.22834
+playlist name: ju, playlist score 63.22834
+playlist name: country, playlist score 63.16405
+playlist name: country summer, playlist score 62.8905
+playlist name: Summer Country, playlist score 62.86477
+playlist name: Country, playlist score 62.1806
+playlist name: country favs, playlist score 62.14581
+playlist name: Country, playlist score 62.07489
+playlist name: Country, playlist score 61.45495
+playlist name: Country, playlist score 61.42205
+playlist name: Country, playlist score 60.68331
+playlist name: Country, playlist score 60.55878
+playlist name: country favs, playlist score 60.44255
+playlist name: country, playlist score 60.13395
+playlist name: country, playlist score 60.02165
+playlist name: country, playlist score 59.60372
+playlist name: Country, playlist score 59.53307
+playlist name: Best Country, playlist score 59.50449
+playlist name: Country, playlist score 59.47313
+playlist name: country, playlist score 59.1503
+playlist name: country, playlist score 59.11316
+playlist name: Country, playlist score 58.99297
+playlist name: country lovin, playlist score 58.75336
+playlist name: Summer Country, playlist score 58.73982
+playlist name: country lovin, playlist score 58.7206
+playlist name: Country, playlist score 58.69613
+playlist name: Country, playlist score 58.46361
+playlist name: yee haw, playlist score 58.44223
+playlist name: country, playlist score 58.09783
+playlist name: Country, playlist score 58.05054
+playlist name: country🎸, playlist score 57.76283
+playlist name: country, playlist score 57.23743
+playlist name: country🎸, playlist score 57.22675
+playlist name: Country, playlist score 57.22
+playlist name: Country, playlist score 57.08757
+playlist name: Country, playlist score 57.08373
+playlist name: Country, playlist score 56.81414
+playlist name: Favorite Country, playlist score 56.77211
+playlist name: country, playlist score 56.75785
+playlist name: Country, playlist score 56.57
+playlist name: Country, playlist score 56.49377
+playlist name: Country, playlist score 56.49377
+playlist name: 💛💛, playlist score 56.43586
+playlist name: Country, playlist score 56.32505
+playlist name: Country, playlist score 56.31047
+playlist name: Country, playlist score 56.15624
+playlist name: saras, playlist score 55.9371
+playlist name: Country, playlist score 55.92867
+playlist name: Best Country, playlist score 55.6048
+playlist name: Country, playlist score 55.49324
+playlist name: yee haw, playlist score 55.45045
+playlist name: country, playlist score 55.32544
+playlist name: 💛💛, playlist score 55.29855
+playlist name: Country, playlist score 55.07411
+playlist name: country gold, playlist score 54.93608
+playlist name: new country, playlist score 54.86794
+playlist name: country, playlist score 54.84993
+playlist name: Country, playlist score 54.56582
+playlist name: Country, playlist score 54.46451
+playlist name: country, playlist score 54.36273
+playlist name: Country Mix, playlist score 54.21164
+
+ songs: 
+0 Luke Bryan Play It Again
+1 Thomas Rhett Die A Happy Man
+2 Rascal Flatts I Like The Sound Of That
+3 Sam Hunt Break Up In A Small Town
+4 Chris Young I'm Comin' Over
+5 Thomas Rhett T-Shirt
+6 Florida Georgia Line H.O.L.Y.
+7 Blake Shelton Sangria
+8 Sam Hunt House Party
+9 Brett Eldredge Drunk On Your Love
+10 Thomas Rhett Crash And Burn
+11 Luke Bryan That's My Kind Of Night
+12 Florida Georgia Line This Is How We Roll
+13 Sam Hunt Leave The Night On
+14 Sam Hunt Make You Miss Me
+15 Luke Bryan Kick The Dust Up
+16 Thomas Rhett It Goes Like This
+17 Keith Urban John Cougar, John Deere, John 3:16
+18 Lee Brice I Don't Dance
+19 Dierks Bentley Somewhere On A Beach
+20 Old Dominion Snapback
+21 Dierks Bentley Drunk On A Plane
+22 Sam Hunt Take Your Time
+23 Old Dominion Break Up with Him
+24 Luke Bryan Home Alone Tonight
+25 Blake Shelton Came Here to Forget
+26 Canaan Smith Love You Like That
+27 Cole Swindell You Should Be Here
+28 Sam Hunt Body Like A Back Road
+29 Dan + Shay From the Ground Up
+30 Brett Eldredge Wanna Be That Song
+31 Thomas Rhett Make Me Wanna
+32 Cole Swindell Middle of a Memory
+33 Thomas Rhett Get Me Some Of That
+34 Lee Brice Drinking class
+35 Luke Bryan Strip It Down
+36 David Nail Night's On Fire
+37 Granger Smith Backroad Song
+38 Chris Young Think of You
+39 Eric Church Springsteen
+40 Eric Church Talladega
+41 Florida Georgia Line Confession
+42 Keith Urban Blue Ain't Your Color
+43 Cole Swindell Let Me See Ya Girl
+44 Darius Rucker Wagon Wheel
+45 Billy Currington Don't It
+46 Luke Combs Hurricane
+47 Chris Lane Fix
+48 Chase Rice Ready Set Roll
+49 Dustin Lynch Mind Reader
+50 Zac Brown Band Loving You Easy
+51 Luke Bryan Huntin', Fishin' And Lovin' Every Day
+52 Brothers Osborne Stay A Little Longer
+53 Luke Bryan Crash My Party
+54 Keith Urban Wasted Time
+55 Brett Eldredge Beat Of The Music
+56 Zac Brown Band Chicken Fried
+57 Jason Aldean Burnin' It Down
+58 David Nail Whatever She's Got
+59 Blake Shelton Honey Bee
+60 Jason Aldean Dirt Road Anthem
+61 Florida Georgia Line Dirt
+62 Carrie Underwood Heartbeat
+63 Jake Owen American Country Love Song
+64 Kenny Chesney American Kids
+65 Lee Brice That don't sound like You
+66 Dustin Lynch Where It's At
+67 Jake Owen Beachin'
+68 Billy Currington It Don't Hurt Like It Used To
+69 Luke Bryan Drink A Beer
+70 Florida Georgia Line May We All
+71 Jon Pardi Head Over Boots
+72 Tim McGraw Humble And Kind
+73 Dan + Shay Nothin' Like You
+74 Brett Young In Case You Didn't Know
+75 Jason Aldean Lights Come On
+76 Florida Georgia Line Round Here
+77 Eric Paslay Friday Night
+78 Florida Georgia Line Cruise
+79 Luke Bryan Roller Coaster
+80 Brantley Gilbert Bottoms Up
+81 Blake Shelton Boys 'Round Here (feat. Pistol Annies & Friends)
+82 Kelsea Ballerini Dibs
+83 Carrie Underwood Church Bells
+84 Zac Brown Band Homegrown
+85 LOCASH I Love This Life
+86 Jake Owen Barefoot Blue Jean Night
+87 Florida Georgia Line Anything Goes
+88 Chase Rice Gonna Wanna Tonight
+89 Kelsea Ballerini Peter Pan
+90 Jason Aldean Night Train
+91 Randy Houser Runnin' Outta Moonlight
+92 Brett Young Sleep Without You
+93 Darius Rucker Homegrown Honey
+94 Cole Swindell Chillin' It
+95 Brett Eldredge Lose My Mind
+96 Thomas Rhett Craving You
+97 Blake Shelton Sure Be Cool If You Did
+98 Old Dominion Song for Another Time

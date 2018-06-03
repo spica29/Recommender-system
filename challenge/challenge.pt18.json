@@ -1,0 +1,19 @@
+{
+    "name": "Workout", 
+    "num_holdouts": 24, 
+    "pid": 1006771, 
+    "num_tracks": 25, 
+    "tracks": [
+        {
+            "pos": 0, 
+            "artist_name": "2Pac", 
+            "track_uri": "spotify:track:1JClFT74TYSXlzpagbmj0S", 
+            "artist_uri": "spotify:artist:1ZwdS5xdxEREPySFridCfh", 
+            "track_name": "California Love - Original Version", 
+            "album_uri": "spotify:album:3PO9OtQdvCDJN8zDLtZiYd", 
+            "duration_ms": 285026, 
+            "album_name": "Greatest Hits"
+        }
+    ], 
+    "num_samples": 1
+}

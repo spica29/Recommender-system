@@ -53,6 +53,7 @@ def index_songs_from_similar_playlist(challenge_file, results_file):
     es.indices.create(index='tracks', ignore=400)
     #mapping = "{\"properties\": {\"track_uri\": {\"type\": \"text\",\"fielddata\": true}}}"
     #es_functions.put_mapping("tracks", "track", mapping)
+    es_functions.mapping_fielddata("tracks", "track", "track_uri")
     for hit in res['hits']['hits']:
         playlist_name = hit['_source'].get('name')
         playlist_score = hit['_score']

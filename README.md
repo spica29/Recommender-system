@@ -1,4 +1,4 @@
 # recommender system
-Install Elasticsearch <br>
+Install Elasticsearch and Python <br>
 Run data_preparation.py <br>
 Run main.py <br>

@@ -1,0 +1,184 @@
+{
+            "name": "#tb", 
+            "collaborative": "false", 
+            "pid": 2003, 
+            "modified_at": 1477785600, 
+            "num_tracks": 35, 
+            "num_albums": 33, 
+            "num_followers": 1, 
+            "tracks": [
+                {
+                    "pos": 0, 
+                    "artist_name": "Elvis Presley", 
+                    "track_uri": "spotify:track:44AyOl4qVkzS48vBsbNXaC", 
+                    "artist_uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE", 
+                    "track_name": "Can't Help Falling in Love", 
+                    "album_uri": "spotify:album:7xe8VI48TxUpU1IIo0RfGi", 
+                    "duration_ms": 179773, 
+                    "album_name": "Blue Hawaii"
+                }, 
+                {
+                    "pos": 1, 
+                    "artist_name": "Stockard Channing", 
+                    "track_uri": "spotify:track:4QylPpokypCmaiCecvfrIM", 
+                    "artist_uri": "spotify:artist:5JFi0qiRtsMLnSUJDwhBKo", 
+                    "track_name": "There Are Worse Things I Could Do", 
+                    "album_uri": "spotify:album:3ku54lKW19XjXwhNkNdtzZ", 
+                    "duration_ms": 143160, 
+                    "album_name": "Grease"
+                }, 
+                {
+                    "pos": 2, 
+                    "artist_name": "Billy Joel", 
+                    "track_uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh", 
+                    "artist_uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e", 
+                    "track_name": "Uptown Girl", 
+                    "album_uri": "spotify:album:3R3x4zIabsvpD3yxqLaUpc", 
+                    "duration_ms": 197706, 
+                    "album_name": "An Innocent Man"
+                }, 
+                {
+                    "pos": 3, 
+                    "artist_name": "Frank Sinatra", 
+                    "track_uri": "spotify:track:2jsFRGqg1tLH3J6UFiR1Bc", 
+                    "artist_uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0", 
+                    "track_name": "Witchcraft - Remastered", 
+                    "album_uri": "spotify:album:0Cx7IYEdG2T70z9xFknhDT", 
+                    "duration_ms": 172253, 
+                    "album_name": "Ultimate Sinatra"
+                }, 
+                {
+                    "pos": 4, 
+                    "artist_name": "Anika Noni Rose", 
+                    "track_uri": "spotify:track:2dlxN435ZY9ruxGYND2Hq0", 
+                    "artist_uri": "spotify:artist:4fqk0Vw0VrIY8O2eWtmQO2", 
+                    "track_name": "Almost There", 
+                    "album_uri": "spotify:album:6zgvBxOmfWxrQi4Jxxki0P", 
+                    "duration_ms": 144426, 
+                    "album_name": "The Princess and the Frog"
+                }, 
+                {
+                    "pos": 5, 
+                    "artist_name": "Frankie Valli", 
+                    "track_uri": "spotify:track:0bfvHnWWOeU1U5XeKyVLbW", 
+                    "artist_uri": "spotify:artist:3CDKmzJu6uwEGnPLLZffpD", 
+                    "track_name": "Can't Take My Eyes Off You", 
+                    "album_uri": "spotify:album:4Sr5ckiFddtONS3KewaXyb", 
+                    "duration_ms": 203680, 
+                    "album_name": "Solo"
+                }, 
+                {
+                    "pos": 6, 
+                    "artist_name": "Ben E. King", 
+                    "track_uri": "spotify:track:7jmHyHMEqm9MJWiMAneF05", 
+                    "artist_uri": "spotify:artist:3plJVWt88EqjvtuB4ZDRV3", 
+                    "track_name": "Stand By Me - Single/LP Version", 
+                    "album_uri": "spotify:album:5QL7RNVpZIoIxElgdykaa8", 
+                    "duration_ms": 175493, 
+                    "album_name": "Don't Play That Song"
+                }, 
+                {
+                    "pos": 7, 
+                    "artist_name": "Sam Cooke", 
+                    "track_uri": "spotify:track:27K3ZDS5B4fwjhwyihrdzC", 
+                    "artist_uri": "spotify:artist:6hnWRPzGGKiapVX1UCdEAC", 
+                    "track_name": "(What A) Wonderful World - Remastered", 
+                    "album_uri": "spotify:album:4y3NeFX7yaEzQfxy70NhZ3", 
+                    "duration_ms": 125506, 
+                    "album_name": "The Wonderful World Of Sam Cooke"
+                }, 
+                {
+                    "pos": 8, 
+                    "artist_name": "The Beatles", 
+                    "track_uri": "spotify:track:1e0hllQ23AG0QGFgezgLOq", 
+                    "artist_uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2", 
+                    "track_name": "Yesterday - Remastered", 
+                    "album_uri": "spotify:album:19K3IHYeVkUTjcBHGfbCOi", 
+                    "duration_ms": 125666, 
+                    "album_name": "Help!"
+                }, 
+                {
+                    "pos": 9, 
+                    "artist_name": "The Beatles", 
+                    "track_uri": "spotify:track:7DD7eSuYSC5xk2ArU62esN", 
+                    "artist_uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2", 
+                    "track_name": "Help! - Remastered", 
+                    "album_uri": "spotify:album:0PT5m6hwPRrpBwIHVnvbFX", 
+                    "duration_ms": 139560, 
+                    "album_name": "Help!"
+                }, 
+                {
+                    "pos": 10, 
+                    "artist_name": "The Beatles", 
+                    "track_uri": "spotify:track:3H7sv3Krffn15BufUuXzf3", 
+                    "artist_uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2", 
+                    "track_name": "Hey Jude - Remastered 2015", 
+                    "album_uri": "spotify:album:5ju5Ouzan3QwXqQt1Tihbh", 
+                    "duration_ms": 425653, 
+                    "album_name": "1"
+                }, 
+                {
+                    "pos": 11, 
+                    "artist_name": "The Beatles", 
+                    "track_uri": "spotify:track:3xMSaDC9TU6AQJIsxQB7MK", 
+                    "artist_uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2", 
+                    "track_name": "All You Need Is Love - Remastered 2009", 
+                    "album_uri": "spotify:album:6P9yO0ukhOx3dvmhGKeYoC", 
+                    "duration_ms": 230386, 
+                    "album_name": "Magical Mystery Tour"
+                }, 
+                {
+                    "pos": 12, 
+                    "artist_name": "Frank Sinatra", 
+                    "track_uri": "spotify:track:4hHbeIIKO5Y5uLyIEbY9Gn", 
+                    "artist_uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0", 
+                    "track_name": "Come Fly With Me - 1998 Digital Remaster", 
+                    "album_uri": "spotify:album:66v9QmjAj0Wwhh2OpbU4BE", 
+                    "duration_ms": 199093, 
+                    "album_name": "Come Fly With Me"
+                }, 
+                {
+                    "pos": 13, 
+                    "artist_name": "Frank Sinatra", 
+                    "track_uri": "spotify:track:2y8Eez5cFFf2JzD546LThM", 
+                    "artist_uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0", 
+                    "track_name": "Fly Me To The Moon", 
+                    "album_uri": "spotify:album:6No1Xr0VqSg5SjFAbyRsZQ", 
+                    "duration_ms": 147000, 
+                    "album_name": "Sinatra/Basie: The Complete Reprise Studio Recordings"
+                }, 
+                {
+                    "pos": 14, 
+                    "artist_name": "Aretha Franklin", 
+                    "track_uri": "spotify:track:3NfxSdJnVdon1axzloJgba", 
+                    "artist_uri": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok", 
+                    "track_name": "I Say a Little Prayer", 
+                    "album_uri": "spotify:album:55HZ2ectg1mMTEKDqIq3kC", 
+                    "duration_ms": 216773, 
+                    "album_name": "Aretha Now"
+                }, 
+                {
+                    "pos": 15, 
+                    "artist_name": "Roy Orbison", 
+                    "track_uri": "spotify:track:48i055G1OT5KxGGftwFxWy", 
+                    "artist_uri": "spotify:artist:0JDkhL4rjiPNEp92jAgJnS", 
+                    "track_name": "Oh, Pretty Woman", 
+                    "album_uri": "spotify:album:2jTbcSPVTBRAoc3mHU6hy0", 
+                    "duration_ms": 178933, 
+                    "album_name": "Oh, Pretty Woman"
+                }, 
+                {
+                    "pos": 16, 
+                    "artist_name": "Tom Jones", 
+                    "track_uri": "spotify:track:67csrS6po7IyXfwds4azjr", 
+                    "artist_uri": "spotify:artist:1T0wRBO0CK0vK8ouUMqEl5", 
+                    "track_name": "It's Not Unusual", 
+                    "album_uri": "spotify:album:4qhk3MMtFC8V29bUn9GB5g", 
+                    "duration_ms": 119800, 
+                    "album_name": "Along Came Tom Jones"
+                }
+            ], 
+            "num_edits": 7, 
+            "duration_ms": 6630645, 
+            "num_artists": 26
+        }

@@ -1,0 +1,189 @@
+playlist name: #tb, playlist score 119.41507
+playlist name: heart eyes, playlist score 54.5284
+playlist name: jazzy, playlist score 54.38693
+playlist name: oldies <3, playlist score 49.28224
+playlist name: wedding, playlist score 46.60469
+playlist name: Old Soul, playlist score 46.03342
+playlist name: The Classics, playlist score 42.75294
+playlist name: Oldies, playlist score 42.45139
+playlist name: Oldies, playlist score 41.63874
+playlist name: Oldies, playlist score 40.62027
+playlist name: Oldies, playlist score 39.07053
+playlist name: My Oldies, playlist score 38.85764
+playlist name: groovy, playlist score 38.73515
+playlist name: Classic, playlist score 37.90532
+playlist name: Classic, playlist score 36.99068
+playlist name: old fashioned, playlist score 36.77728
+playlist name: Groove, playlist score 36.15232
+playlist name: Wedding Dinner Music, playlist score 35.67995
+playlist name: Easy Listening, playlist score 34.87687
+playlist name: Oldies, playlist score 34.50765
+playlist name: Rock, playlist score 34.37209
+playlist name: Chillin', playlist score 34.08918
+playlist name: Hap, playlist score 34.05183
+playlist name: Oldies, playlist score 33.79625
+playlist name: oldie but goodie, playlist score 33.70057
+playlist name: oldies, playlist score 33.35534
+playlist name: old soul, playlist score 33.0733
+playlist name: Happy Mix, playlist score 32.67115
+playlist name: Old Stuff, playlist score 32.47176
+playlist name: Soul, playlist score 32.45501
+playlist name: Christmas, playlist score 32.15725
+playlist name: Slow Dance, playlist score 31.71358
+playlist name: Gold, playlist score 31.15059
+playlist name: vintage, playlist score 31.11812
+playlist name: on the road, playlist score 31.03752
+playlist name: Congratulations, playlist score 30.75647
+playlist name: Wedding, playlist score 30.4167
+playlist name: beach, playlist score 30.3405
+playlist name: silver, playlist score 30.24807
+playlist name: classics, playlist score 30.06423
+playlist name: Wedding playlist, playlist score 29.28907
+playlist name: Oldies but goodies, playlist score 29.16211
+playlist name: happy, playlist score 29.11829
+playlist name: Wedding, playlist score 28.58651
+playlist name: The good stuff, playlist score 28.55312
+playlist name: Classic Christmas, playlist score 28.41506
+playlist name: classics, playlist score 28.40156
+playlist name: Classics, playlist score 28.27571
+playlist name: oldies but goodies, playlist score 28.07738
+playlist name: DISNEY, playlist score 27.83438
+playlist name: WEDDING, playlist score 27.61609
+playlist name: oldies, playlist score 27.53349
+playlist name: Wedding Reception, playlist score 27.25468
+playlist name: golden., playlist score 27.04059
+playlist name: Disney :), playlist score 27.02128
+playlist name: new groove, playlist score 26.98688
+playlist name: Disney, playlist score 26.93524
+playlist name: CLASSICS, playlist score 26.90646
+playlist name: wedding, playlist score 26.88871
+playlist name: The good, playlist score 26.8576
+playlist name: Beatles, playlist score 26.42198
+playlist name: Random, playlist score 26.41793
+playlist name: The truth, playlist score 26.26198
+playlist name: supernatural, playlist score 26.09221
+playlist name: 60's, playlist score 26.03468
+playlist name: oldies, playlist score 25.60483
+playlist name: Disney, playlist score 25.5545
+playlist name: Hooked on a Feeling, playlist score 25.53822
+playlist name: old skool, playlist score 25.53783
+playlist name: oldies, playlist score 25.42904
+playlist name: Disney Favs, playlist score 24.92072
+playlist name: Classics, playlist score 24.83122
+playlist name: Oldies, playlist score 24.77674
+playlist name: Classics, playlist score 24.75259
+playlist name: Old jams, playlist score 24.73394
+playlist name: Michael, playlist score 24.68074
+playlist name: Oldies, playlist score 24.55265
+playlist name: wedding, playlist score 24.16247
+playlist name: Wedding SONGS, playlist score 24.12908
+playlist name: Oldies, playlist score 23.97249
+playlist name: hakuna matata, playlist score 23.89134
+playlist name: Disney, playlist score 23.82229
+playlist name: family, playlist score 23.80406
+playlist name: 99, playlist score 23.78007
+playlist name: Wedding Jams, playlist score 23.75713
+playlist name: MAM, playlist score 23.75625
+playlist name: Noosa Tastiest Playlist, playlist score 23.69232
+playlist name: jams, playlist score 23.59169
+playlist name: tbt, playlist score 23.45766
+playlist name: dishes, playlist score 23.23825
+playlist name: Have a great day, playlist score 23.16383
+playlist name: BABY SHOWER, playlist score 23.03239
+playlist name: lolita, playlist score 22.97356
+playlist name: Don't Stop Me Now, playlist score 22.92254
+playlist name: Disney, playlist score 22.87467
+playlist name: Disney, playlist score 22.78246
+playlist name: oldies:), playlist score 22.68017
+playlist name: Disney, playlist score 22.67029
+playlist name: Palm Springs!, playlist score 22.6458
+playlist name: jelly, playlist score 22.63071
+
+ songs: 
+0 Marvin Gaye Ain't No Mountain High Enough - 32
+1 The Temptations My Girl - 18 
+2 The Jackson 5 I Want You Back - 22
+3 Neil Diamond Sweet Caroline - 
+4 Earth, Wind & Fire September - 21
+5 Van Morrison Brown Eyed Girl
+6 Stevie Wonder Signed, Sealed, Delivered (I'm Yours)
+7 The Beach Boys Wouldn't It Be Nice - 2000 - Remaster
+8 Frank Sinatra The Way You Look Tonight
+9 The Beatles Here Comes The Sun - Remastered
+10 Stevie Wonder Superstition - Single Version
+11 Etta James At Last - Single Version
+12 Aretha Franklin Respect
+13 ABBA Dancing Queen
+14 Frankie Valli & The Four Seasons December, 1963 (Oh What A Night!)
+15 Dexys Midnight Runners Come On Eileen
+16 The Beatles Twist And Shout - Remastered 2009
+17 Queen Bohemian Rhapsody - Remastered 2011
+18 Four Tops I Can't Help Myself (Sugar Pie, Honey Bunch) - Album Version (Stereo)
+19 Al Green Let's Stay Together
+20 The Beach Boys I Get Around (Mono)
+21 Billy Joel Piano Man
+22 Frank Sinatra You Make Me Feel So Young
+23 Elton John Rocket Man (I Think It's Going To Be A Long Long Time)
+24 Eagles Hotel California - Remastered
+25 Elvis Presley Jailhouse Rock
+26 Louis Armstrong What A Wonderful World - Single Version - 19
+27 Ella Fitzgerald Dream A Little Dream Of Me
+28 The Jackson 5 ABC
+29 Simon & Garfunkel Mrs. Robinson
+30 The Beatles Come Together - Remastered
+31 James Brown & The Famous Flames I Got You (I Feel Good)
+32 The Turtles Happy Together
+33 Creedence Clearwater Revival Have You Ever Seen The Rain?
+34 Blue Swede Hooked on a Feeling - 30
+35 Stevie Wonder For Once In My Life - 17
+36 Bon Jovi Livin' On A Prayer
+37 The Beach Boys Surfin' U.S.A.
+38 Frank Sinatra Theme From New York, New York
+39 Boston More Than a Feeling
+40 Sam Cooke You Send Me - Remastered
+41 Ben E. King Stand By Me
+42 Rupert Holmes Escape (The Pina Colada Song)
+43 Elton John Don't Go Breaking My Heart
+44 Bee Gees Stayin' Alive
+45 Frankie Valli & The Four Seasons Sherry
+46 Don McLean American Pie
+47 The Righteous Brothers Unchained Melody
+48 Queen Under Pressure - Remastered 2011
+49 The Ronettes Be My Baby
+50 a-ha Take On Me
+51 Chuck Berry Johnny B. Goode
+52 Elton John Your Song
+53 Dion Runaround Sue
+54 The Isley Brothers Shout, Pts. 1 & 2
+55 Elton John Tiny Dancer
+56 Journey Don't Stop Believin'
+57 The Beatles I Want To Hold Your Hand - Remastered 2015
+58 Dean Martin That's Amore
+59 Daryl Hall & John Oates You Make My Dreams - Remastered
+60 Queen Another One Bites The Dust - Remastered 2011
+61 Lea Salonga A Whole New World
+62 Elvis Presley Hound Dog
+63 Norman Greenbaum Spirit In The Sky - 33
+64 Bill Withers Lovely Day
+65 The Monkees I'm a Believer
+66 Kristen Bell Love Is an Open Door
+67 Kenny Loggins Footloose
+68 Rick Springfield Jessie's Girl
+69 Mandy Moore I See the Light - From "Tangled"/Soundtrack Version
+70 The Archies Sugar Sugar
+71 The Foundations Build Me Up Buttercup
+72 The Animals House Of The Rising Sun
+73 Mandy Moore When Will My Life Begin - From "Tangled"/Soundtrack Version
+74 Fleetwood Mac Go Your Own Way - 2004 Remastered Edition
+75 Commodores Easy
+76 Toto Africa
+77 AC/DC You Shook Me All Night Long
+78 Redbone Come & Get Your Love (Re-Recorded) - 28
+79 Louis Armstrong La Vie En Rose - Single Version
+80 Wham! Wake Me up Before You Go-Go
+81 The Beach Boys Kokomo
+82 Idina Menzel Let It Go - From "Frozen"/Soundtrack Version
+83 Jason Weaver I Just Can't Wait to Be King - From "The Lion King"/Soundtrack Version
+84 Sam Cooke A Change Is Gonna Come
+85 The Beatles Hello, Goodbye - Remastered
+86 George Harrison My Sweet Lord

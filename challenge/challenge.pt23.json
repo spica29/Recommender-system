@@ -1,0 +1,109 @@
+{
+            "name": "driving songs", 
+            "num_holdouts": 77, 
+            "pid": 1010005, 
+            "num_tracks": 87, 
+            "tracks": [
+                {
+                    "pos": 0, 
+                    "artist_name": "Cherub", 
+                    "track_uri": "spotify:track:152ANCuCtaK7mkhyFubrRG", 
+                    "artist_uri": "spotify:artist:00dwwnz3V4kRfu3UFYpJLz", 
+                    "track_name": "Doses & Mimosas", 
+                    "album_uri": "spotify:album:36ypuZEeHzKt3jm4gh6J4Q", 
+                    "duration_ms": 323240, 
+                    "album_name": "Year of the Caprese"
+                }, 
+                {
+                    "pos": 1, 
+                    "artist_name": "Metallica", 
+                    "track_uri": "spotify:track:3dIpOWSzTADMIpcvbiSHW8", 
+                    "artist_uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+                    "track_name": "Blackened", 
+                    "album_uri": "spotify:album:1g6sOo7YGM9Sw07EIEDLKA", 
+                    "duration_ms": 400613, 
+                    "album_name": "...And Justice For All"
+                }, 
+                {
+                    "pos": 2, 
+                    "artist_name": "Metallica", 
+                    "track_uri": "spotify:track:2qTMefSpJHIdep3aC4RMR4", 
+                    "artist_uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+                    "track_name": "...And Justice For All", 
+                    "album_uri": "spotify:album:1g6sOo7YGM9Sw07EIEDLKA", 
+                    "duration_ms": 586506, 
+                    "album_name": "...And Justice For All"
+                }, 
+                {
+                    "pos": 3, 
+                    "artist_name": "Metallica", 
+                    "track_uri": "spotify:track:1OXF53TgeSaycxIXBuylAl", 
+                    "artist_uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+                    "track_name": "Eye Of The Beholder", 
+                    "album_uri": "spotify:album:1g6sOo7YGM9Sw07EIEDLKA", 
+                    "duration_ms": 390026, 
+                    "album_name": "...And Justice For All"
+                }, 
+                {
+                    "pos": 4, 
+                    "artist_name": "Metallica", 
+                    "track_uri": "spotify:track:0kUBk3PnCat4oPvTlNsStp", 
+                    "artist_uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+                    "track_name": "One", 
+                    "album_uri": "spotify:album:1g6sOo7YGM9Sw07EIEDLKA", 
+                    "duration_ms": 447440, 
+                    "album_name": "...And Justice For All"
+                }, 
+                {
+                    "pos": 5, 
+                    "artist_name": "Kid Rock", 
+                    "track_uri": "spotify:track:0p7H3kcuqKSzrJhEEAQZKc", 
+                    "artist_uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+                    "track_name": "Devil Without A Cause - Explicit LP Version", 
+                    "album_uri": "spotify:album:7nFlAxnXMrQRpM1R80pKQm", 
+                    "duration_ms": 332640, 
+                    "album_name": "Devil Without A Cause"
+                }, 
+                {
+                    "pos": 6, 
+                    "artist_name": "Metallica", 
+                    "track_uri": "spotify:track:0WU6Qk6cYEGfoCrSNB7CUR", 
+                    "artist_uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB", 
+                    "track_name": "Ride The Lightning - Remastered", 
+                    "album_uri": "spotify:album:5nBU21L37aHEOEjoXV6g8O", 
+                    "duration_ms": 396986, 
+                    "album_name": "Ride The Lightning"
+                }, 
+                {
+                    "pos": 7, 
+                    "artist_name": "Kid Rock", 
+                    "track_uri": "spotify:track:19LT4ZUEeoUdimKE04WJJg", 
+                    "artist_uri": "spotify:artist:7dOBabd5O4CvKrg4iriHTM", 
+                    "track_name": "Cowboy - Explicit LP Version", 
+                    "album_uri": "spotify:album:7nFlAxnXMrQRpM1R80pKQm", 
+                    "duration_ms": 257866, 
+                    "album_name": "Devil Without A Cause"
+                }, 
+                {
+                    "pos": 8, 
+                    "artist_name": "Korn", 
+                    "track_uri": "spotify:track:6W21LNLz9Sw7sUSNWMSHRu", 
+                    "artist_uri": "spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD", 
+                    "track_name": "Freak On a Leash", 
+                    "album_uri": "spotify:album:0gsiszk6JWYwAyGvaTTud4", 
+                    "duration_ms": 255733, 
+                    "album_name": "Follow The Leader"
+                }, 
+                {
+                    "pos": 9, 
+                    "artist_name": "Toadies", 
+                    "track_uri": "spotify:track:56SkdBKyR2zOkjk6wVFI9s", 
+                    "artist_uri": "spotify:artist:2QMMktUMtwMSwUZATX1cRO", 
+                    "track_name": "Possum Kingdom", 
+                    "album_uri": "spotify:album:7tFTqVGHceSlXOaz8IylBN", 
+                    "duration_ms": 309573, 
+                    "album_name": "Rubberneck"
+                }
+            ], 
+            "num_samples": 10
+        }

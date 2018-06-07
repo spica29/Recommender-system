@@ -1,0 +1,196 @@
+playlist name: Dad, playlist score 39.10688
+playlist name: POPS, playlist score 34.15698
+playlist name: dad songs, playlist score 32.11926
+playlist name: News, playlist score 30.78892
+playlist name: TBT, playlist score 30.23188
+playlist name: oldies, playlist score 29.02961
+playlist name: road trip, playlist score 28.40796
+playlist name: Music Mix, playlist score 27.98577
+playlist name: nostalgia, playlist score 27.48767
+playlist name: Easy Listening, playlist score 27.0671
+playlist name: my childhood, playlist score 26.27829
+playlist name: 90's Hits, playlist score 25.84015
+playlist name: 80's music, playlist score 25.82509
+playlist name: 80s, playlist score 24.78909
+playlist name: Rock, playlist score 24.63175
+playlist name: 90s, playlist score 24.48793
+playlist name: 90s Party, playlist score 24.4552
+playlist name: oldies, playlist score 24.25622
+playlist name: Rock/Alt, playlist score 24.24945
+playlist name: Rock Hard, playlist score 24.15131
+playlist name: Bonnaroo 2017, playlist score 24.03886
+playlist name: 80's and 90's, playlist score 23.63485
+playlist name: Nostalgia, playlist score 23.61664
+playlist name: the feels, playlist score 23.55344
+playlist name: Chill, playlist score 23.15202
+playlist name: 90's, playlist score 23.1509
+playlist name: Chill, playlist score 22.97789
+playlist name: goodness, playlist score 22.88387
+playlist name: Owen, playlist score 22.28206
+playlist name: Classic Rock, playlist score 22.09
+playlist name: Old songs, playlist score 21.99945
+playlist name: Chill Songs, playlist score 21.95451
+playlist name: 80's, playlist score 21.81446
+playlist name: Girl Power, playlist score 21.51571
+playlist name: Ww, playlist score 21.42545
+playlist name: Sunday Mornings, playlist score 21.35311
+playlist name: Mix Tape, playlist score 21.19586
+playlist name: Oldies, playlist score 21.17063
+playlist name: old but gold, playlist score 21.16599
+playlist name: Alternative, playlist score 21.1526
+playlist name: Work Tunes!, playlist score 21.00967
+playlist name: angst _, playlist score 20.72642
+playlist name: pure love, playlist score 20.70865
+playlist name: 80's Hits, playlist score 20.41914
+playlist name: Inspirational, playlist score 20.17863
+playlist name: Christian, playlist score 20.13356
+playlist name: 1990's, playlist score 20.07153
+playlist name: tbd, playlist score 19.99057
+playlist name: 90's, playlist score 19.92161
+playlist name: classic rock, playlist score 19.88697
+playlist name: Slow Dancing, playlist score 19.86373
+playlist name: 80's, playlist score 19.84842
+playlist name: Oldies, playlist score 19.80756
+playlist name: Vintage, playlist score 19.80501
+playlist name: THROW IT BACK, playlist score 19.65497
+playlist name: Chillin, playlist score 19.58545
+playlist name: take me back, playlist score 19.53887
+playlist name: Nineties, playlist score 19.50245
+playlist name: 80s, playlist score 19.44184
+playlist name: ❤️❤️❤️, playlist score 19.34111
+playlist name: for the soul, playlist score 19.32481
+playlist name: Mix, playlist score 19.16156
+playlist name: My Faves, playlist score 18.95267
+playlist name: Rock, playlist score 18.8733
+playlist name: 90's, playlist score 18.84083
+playlist name: Late, playlist score 18.70105
+playlist name: Car, playlist score 18.69234
+playlist name: 70s-80s, playlist score 18.40912
+playlist name: 90's mix, playlist score 18.39856
+playlist name: old people, playlist score 18.39772
+playlist name: Up Beat, playlist score 18.12007
+playlist name: Chill, playlist score 18.03049
+playlist name: NYE 2015, playlist score 18.00989
+playlist name: Classics, playlist score 17.93934
+playlist name: Jamie, playlist score 17.86801
+playlist name: chillin, playlist score 17.77824
+playlist name: Mike, playlist score 17.64895
+playlist name: work songs, playlist score 17.56997
+playlist name: Reggae, playlist score 17.56792
+playlist name: wedding, playlist score 17.46972
+playlist name: Weight Room, playlist score 17.45034
+playlist name: On the go, playlist score 17.27429
+playlist name: kobe, playlist score 17.23434
+playlist name: ayyyyy, playlist score 17.20433
+playlist name: Riding music, playlist score 17.19372
+playlist name: roadtrippin, playlist score 17.07589
+playlist name: 90's Alternative, playlist score 16.86545
+playlist name: Brandon, playlist score 16.86397
+playlist name: partyparty, playlist score 16.83008
+playlist name: hitS, playlist score 16.73732
+playlist name: summer, playlist score 16.6812
+playlist name: relax, playlist score 16.59376
+playlist name: 90s, playlist score 16.43621
+playlist name: Car ride, playlist score 16.41979
+playlist name: Feel good, playlist score 16.26359
+playlist name: Rock, playlist score 16.20107
+playlist name: AMERICA, playlist score 16.17206
+playlist name: oldies, playlist score 16.14586
+playlist name: bianca, playlist score 16.08518
+playlist name: oldies but goodies, playlist score 16.07369
+
+ songs: 
+0 The Cranberries Linger
+1 Oasis Wonderwall - Remastered
+2 Rick Springfield Jessie's Girl
+3 Simple Minds Don't You (Forget About Me)
+4 Queen Bohemian Rhapsody - Remastered 2011
+5 Counting Crows Mr. Jones
+6 Bon Jovi Livin' On A Prayer
+7 Journey Don't Stop Believin'
+8 Semisonic Closing Time
+9 The Police Every Breath You Take - Remastered 2003
+10 Phil Collins In The Air Tonight - 2015 Remastered
+11 Eagle-Eye Cherry Save Tonight
+12 Toto Africa
+13 Guns N' Roses Sweet Child O' Mine
+14 Red Hot Chili Peppers Under The Bridge
+15 U2 One
+16 Aerosmith I Don't Want to Miss a Thing - From the Touchstone film, "Armageddon"
+17 The Wallflowers One Headlight
+18 Alanis Morissette Ironic - 2015 Remastered
+19 Third Eye Blind Semi-Charmed Life
+20 Led Zeppelin Stairway To Heaven
+21 U2 Sunday Bloody Sunday - Remastered 2008
+22 Nirvana Smells Like Teen Spirit
+23 The Temptations My Girl
+24 Sixpence None The Richer Kiss Me
+25 4 Non Blondes What's Up?
+26 Cyndi Lauper Time After Time
+27 Spin Doctors Two Princes
+28 The Goo Goo Dolls Iris
+29 The Goo Goo Dolls Slide
+30 Pearl Jam Alive
+31 Michael Jackson Beat It - Single Version
+32 Sublime Santeria
+33 Bon Jovi You Give Love A Bad Name
+34 Tears For Fears Everybody Wants To Rule The World
+35 Eagles Hotel California - Remastered
+36 The Outfield Your Love
+37 Michael Jackson Billie Jean
+38 Marcy Playground Sex And Candy
+39 No Doubt Don't Speak
+40 Green Day Basket Case
+41 Blind Melon No Rain
+42 Def Leppard Pour Some Sugar On Me (2012)
+43 Foreigner I Want To Know What Love Is - Remastered
+44 Coldplay Viva La Vida
+45 Earth, Wind & Fire September
+46 Boston More Than a Feeling
+47 a-ha Take On Me
+48 The Smashing Pumpkins 1979
+49 U2 Where The Streets Have No Name
+50 Fleetwood Mac Landslide
+51 Sublime What I Got
+52 Radiohead Creep
+53 The Killers Mr. Brightside
+54 Nirvana Heart-Shaped Box
+55 New Radicals You Get What You Give
+56 Oasis Champagne Supernova - Remastered
+57 Queen Under Pressure - Remastered 2011
+58 AC/DC You Shook Me All Night Long
+59 Duran Duran Hungry Like The Wolf - 2009 Remastered Version
+60 Smash Mouth All Star
+61 Eve 6 Inside Out
+62 Kenny Loggins Footloose
+63 Aerosmith Dream On
+64 Tom Petty Free Fallin'
+65 REO Speedwagon Can't Fight This Feeling
+66 Everlast What It's Like
+67 Elton John Your Song
+68 Red Hot Chili Peppers Scar Tissue
+69 Matchbox Twenty Push
+70 Tracy Chapman Fast Car
+71 Bush Glycerine - Remastered
+72 Bill Medley (I've Had) The Time of My Life
+73 Rick Astley Never Gonna Give You Up
+74 Journey Faithfully
+75 Fleetwood Mac Go Your Own Way - 2004 Remastered Edition
+76 AC/DC Back In Black
+77 Soft Cell Tainted Love
+78 Ace of Base The Sign
+79 The Cardigans Lovefool - Radio Edit
+80 Will Smith Gettin' Jiggy Wit It
+81 MC Hammer U Can't Touch This
+82 Barenaked Ladies One Week
+83 Spice Girls Wannabe - Radio Edit
+84 Meredith Brooks Bitch
+85 Red Hot Chili Peppers Snow (Hey Oh) - Hey Oh Album Version
+86 Bon Jovi Wanted Dead Or Alive
+87 Marvin Gaye Ain't No Mountain High Enough
+88 Train Drops of Jupiter
+89 Whitney Houston I Wanna Dance with Somebody (Who Loves Me)
+90 Third Eye Blind Jumper - 1998 Edit
+91 No Doubt Just A Girl
+92 The Fray How to Save a Life
+93 Pearl Jam Jeremy

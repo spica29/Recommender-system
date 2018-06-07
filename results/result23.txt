@@ -1,0 +1,197 @@
+playlist name: Rock Out, playlist score 41.53992
+playlist name: Invincible, playlist score 34.59405
+playlist name: workout, playlist score 33.53796
+playlist name: Rock, playlist score 32.99982
+playlist name: Rock out with your cock out, playlist score 32.1096
+playlist name: rock, playlist score 30.70091
+playlist name: Rock, playlist score 30.41719
+playlist name: work, playlist score 30.4036
+playlist name: GYM, playlist score 30.38593
+playlist name: Hard Rock, playlist score 30.37277
+playlist name: Country, playlist score 29.23751
+playlist name: 1990's, playlist score 28.46211
+playlist name: Jim, playlist score 28.34245
+playlist name: Jammin, playlist score 28.12708
+playlist name: Rock n roll, playlist score 27.79864
+playlist name: Workout, playlist score 27.3649
+playlist name: Bumping, playlist score 26.62493
+playlist name: Boat, playlist score 26.27946
+playlist name: Rock, playlist score 26.25727
+playlist name: Rock, playlist score 26.23895
+playlist name: Rock/Metal, playlist score 25.9645
+playlist name: Tunes, playlist score 25.84034
+playlist name: ALLDAY, playlist score 24.89114
+playlist name: 90's Alternative, playlist score 24.83486
+playlist name: Rock and Roll, playlist score 24.70911
+playlist name: Mixed, playlist score 24.66376
+playlist name: Basement, playlist score 24.27181
+playlist name: 90s, playlist score 24.24756
+playlist name: turnip, playlist score 24.18411
+playlist name: Wot, playlist score 24.11013
+playlist name: beach, playlist score 23.99132
+playlist name: Rage, playlist score 23.94056
+playlist name: Business Time, playlist score 23.7731
+playlist name: Rock, playlist score 23.45361
+playlist name: Bachelor Party!!!, playlist score 23.38495
+playlist name: 90s alternative, playlist score 23.16258
+playlist name: rock, playlist score 23.16145
+playlist name: AMERICA, playlist score 23.14149
+playlist name: Work, playlist score 23.14085
+playlist name: Bachelorette, playlist score 23.11122
+playlist name: Metal/Rock, playlist score 23.01528
+playlist name: Summer, playlist score 22.89406
+playlist name: XOXO, playlist score 22.79011
+playlist name: All the songs, playlist score 22.72821
+playlist name: Rock, playlist score 22.6654
+playlist name: My Favorite Songs, playlist score 22.53384
+playlist name: LB, playlist score 22.52421
+playlist name: Rock Playlist, playlist score 22.48226
+playlist name: Hard, playlist score 22.40054
+playlist name: Smokin, playlist score 22.32196
+playlist name: angst _, playlist score 22.19929
+playlist name: Kyle, playlist score 21.98424
+playlist name: GYM ROCK, playlist score 21.9083
+playlist name: Rod, playlist score 21.70336
+playlist name: Nostalgia, playlist score 21.70002
+playlist name: rock songs, playlist score 21.54505
+playlist name: Fun., playlist score 21.36471
+playlist name: here, playlist score 21.06386
+playlist name: pop, playlist score 21.01052
+playlist name: bachelorette, playlist score 21.00174
+playlist name: Driving, playlist score 20.96289
+playlist name: Old, playlist score 20.94299
+playlist name: JAMZ, playlist score 20.87845
+playlist name: Classic's, playlist score 20.80501
+playlist name: Summer 2014, playlist score 20.77742
+playlist name: EDM, playlist score 20.71558
+playlist name: I workout!, playlist score 20.52725
+playlist name: Old school, playlist score 20.52683
+playlist name: SPRING BREAK 2015, playlist score 20.52667
+playlist name: Party, playlist score 20.49582
+playlist name: unknown, playlist score 20.48555
+playlist name: Cruisin, playlist score 20.42934
+playlist name: dope, playlist score 20.34687
+playlist name: Golf, playlist score 20.13542
+playlist name: Pregame, playlist score 20.07011
+playlist name: Beats, playlist score 20.06318
+playlist name: Classic rock, playlist score 20.04353
+playlist name: A1, playlist score 19.95299
+playlist name: Jammin', playlist score 19.79033
+playlist name: alternative rock, playlist score 19.76559
+playlist name: Rock, playlist score 19.76027
+playlist name: 🤘🏼, playlist score 19.73673
+playlist name: Workout, playlist score 19.71813
+playlist name: run, playlist score 19.65702
+playlist name: My music 2, playlist score 19.45345
+playlist name: Joe, playlist score 19.42537
+playlist name: jams, playlist score 19.35171
+playlist name: NYE 2015, playlist score 19.32401
+playlist name: NEW YEARS, playlist score 19.29003
+playlist name: alternative, playlist score 19.14544
+playlist name: Rock, playlist score 19.13342
+playlist name: Good Good, playlist score 19.12395
+playlist name: Ayyyy, playlist score 19.07208
+playlist name: ps, playlist score 19.07044
+playlist name: Vibes, playlist score 19.06224
+playlist name: JamZZZZ, playlist score 19.00683
+playlist name: Las Vegas!, playlist score 18.98935
+playlist name: party party, playlist score 18.97838
+playlist name: feelin good, playlist score 18.96647
+playlist name: workout, playlist score 18.80221
+
+ songs: 
+0 Metallica Enter Sandman
+1 Nirvana Smells Like Teen Spirit
+2 Guns N' Roses Sweet Child O' Mine
+3 Guns N' Roses Welcome To The Jungle
+4 Drowning Pool Bodies
+5 Papa Roach Last Resort
+6 Staind It's Been Awhile - Explicit LP Version
+7 Ozzy Osbourne Crazy Train - Remastered
+8 AC/DC Thunderstruck
+9 System Of A Down Chop Suey!
+10 3 Doors Down Kryptonite
+11 Godsmack I Stand Alone
+12 Three Days Grace Animal I Have Become
+13 Metallica Master Of Puppets
+14 Guns N' Roses Paradise City
+15 AC/DC Back In Black
+16 Kid Rock Bawitdaba - Explicit LP Version
+17 Trapt Headstrong
+18 Red Hot Chili Peppers Under The Bridge
+19 Queen Bohemian Rhapsody - Remastered 2011
+20 Journey Don't Stop Believin'
+21 Avenged Sevenfold Hail to the King
+22 Sublime What I Got
+23 Godsmack Voodoo
+24 Soundgarden Black Hole Sun
+25 Def Leppard Pour Some Sugar On Me (2012)
+26 Disturbed Down With the Sickness
+27 P.O.D. Youth Of The Nation
+28 Nirvana Heart-Shaped Box
+29 Limp Bizkit Rollin' (Air Raid Vehicle)
+30 Lynyrd Skynyrd Sweet Home Alabama
+31 Rage Against The Machine Killing In The Name
+32 Three Days Grace Riot
+33 Seether Remedy
+34 Linkin Park In The End
+35 Rage Against The Machine Bulls On Parade
+36 Black Sabbath Paranoid - Remastered Version
+37 Saliva Click Click Boom
+38 AC/DC Highway to Hell
+39 Rise Against Savior
+40 Linkin Park One Step Closer
+41 Nickelback Rockstar
+42 Red Hot Chili Peppers Californication
+43 Nirvana Come As You Are
+44 The Offspring Self Esteem
+45 Korn Coming Undone
+46 Aerosmith I Don't Want to Miss a Thing - From the Touchstone film, "Armageddon"
+47 Nickelback How You Remind Me - LP Mix
+48 Bon Jovi Livin' On A Prayer
+49 The Rolling Stones Paint It Black
+50 Green Day When I Come Around
+51 The White Stripes Seven Nation Army
+52 Red Hot Chili Peppers Snow (Hey Oh) - Hey Oh Album Version
+53 Rise Against Prayer Of The Refugee
+54 Third Eye Blind Semi-Charmed Life
+55 Aerosmith Dream On
+56 Slipknot Duality
+57 Pearl Jam Even Flow
+58 The Chainsmokers Closer
+59 AC/DC T.N.T.
+60 The Offspring The Kids Aren't Alright
+61 The Offspring Why Don't You Get A Job
+62 Breaking Benjamin The Diary of Jane
+63 Led Zeppelin Whole Lotta Love
+64 Three Days Grace I Hate Everything About You
+65 blink-182 All The Small Things
+66 Papa Roach Scars
+67 Creed Higher
+68 Survivor Eye of the Tiger
+69 Red Hot Chili Peppers Otherside
+70 Pantera Walk
+71 Foreigner Juke Box Hero
+72 Volbeat A Warrior's Call
+73 All That Remains Two Weeks
+74 Blur Song 2 - 2012 Remastered Version
+75 Chevelle The Red
+76 Pearl Jam Alive
+77 Boston More Than a Feeling
+78 ZZ Top Sharp Dressed Man - 2008 Remastered Version
+79 Metallica Nothing Else Matters
+80 Poison Nothin' But A Good Time - 2006 - Remaster
+81 Rush Tom Sawyer
+82 Kid Rock All Summer Long
+83 Queen Another One Bites The Dust - Remastered 2011
+84 Green Day Basket Case
+85 The Offspring You're Gonna Go Far, Kid
+86 Incubus Drive
+87 Van Halen Jump - 2015 Remastered Version
+88 Van Halen Panama - 2015 Remastered Version
+89 Evanescence Bring Me To Life
+90 Creed With Arms Wide Open
+91 Skid Row 18 And Life
+92 Ozzy Osbourne Mama, I'm Coming Home
+93 Scorpions Rock You Like A Hurricane
+94 The Offspring Come Out And Play (Keep ‘Em Separated)
